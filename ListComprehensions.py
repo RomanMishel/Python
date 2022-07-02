@@ -3,6 +3,6 @@ new_list = []
 for num in var1:
     new_num = num / 2
     if round(new_num) == new_num:
-        new_list.append(new_num)
+        new_list.append(num)
 
 print(new_list)
