@@ -5,6 +5,7 @@ import time
 soup = ""
 
 def crypto_currency_request():
+    
     send_req = requests.get("https://www.livecoinwatch.com/price/Toncoin-TONCOIN")
     try:
         response = requests.get(send_req, timeout=10)
@@ -35,7 +36,10 @@ def crypto_currency_price():
     else:
         return
     
-if __name__ == "__main__":
+def crypto_monitoring():
     crypto_currency_request
     crypto_currency_price
-    
+
+crypto_monitoring()    
+
+a = 1
