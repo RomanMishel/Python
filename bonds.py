@@ -1,8 +1,7 @@
 import requests
 import json
 
-currency = input(f'You currency:'"")
-# print(currency)
+currency = input(f'You currency name:'"")
 def crypto_currency_request():
     url = "https://api.livecoinwatch.com/coins/single"
     payload = {
@@ -19,6 +18,8 @@ def crypto_currency_request():
         response = requests.request("POST", url, headers=headers, json=payload, timeout=10)
         response_json= response.json()
         price = response_json['rate']
+        print(type(price))
+        price = float("%.2f"%(price))
         print(price)
         response.raise_for_status()
         return response.json(), price 
@@ -42,8 +43,8 @@ def crypto_currency_price(data, price):
         return
  
     if price is not None:
-        low_price = 1.17 
-        max_price = 6
+        low_price = float(1.17)
+        max_price = float(6)
         print(f'Current price: {price}')
         if price <= low_price:
             print(f'The price is {price} low, time to buy!')
@@ -52,7 +53,7 @@ def crypto_currency_price(data, price):
         else:
             print(f'The price is {price}, no action needed.')
     else:
-        print("Price not found for .")
+        print(f'Price not found for {price}.')
         
 def crypto_monitoring():
     data, price = crypto_currency_request()
