@@ -11,7 +11,7 @@ def crypto_currency_request():
     "meta": False
     }
     headers = {
-    'content-type': 'application/json',
+    # 'content-type': 'application/json',
     'x-api-key': 'c2ea5b77-1668-46f1-9089-e1691c6ff332'
     }
 

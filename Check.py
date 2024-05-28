@@ -6,7 +6,7 @@ url = "https://api.livecoinwatch.com/coins/single"
 payload = json.dumps({
   "currency": "USD",
   "code": "TONCOIN",
-  "meta": True
+  "meta": False
 })
 headers = {
   'content-type': 'application/json',
@@ -16,4 +16,4 @@ headers = {
 response = requests.request("POST", url, headers=headers, data=payload)
 response_json= response.json()
 price = response_json['rate']
-print(price)
+print(float("%.3f"%price))
