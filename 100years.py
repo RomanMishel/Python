@@ -1,4 +1,4 @@
-year_now = 2023
+year_now = 2026
 name = input('Enter your name: ')
 print(name)
 age = int(input('Enter your age: '))
