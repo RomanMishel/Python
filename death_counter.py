@@ -11,10 +11,10 @@ def death_counter():
 
     death_counter = int(0)
 
-    user_input = "."
+    user_input = bind(".")
 
     def add_death():
-        if user_input.get() == ".":
+        if user_input() == True:
             death_counter += 1
             label.config(text=f"Deaths count: {death_counter}")
 
