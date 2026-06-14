@@ -1,4 +1,5 @@
 import tkinter as tk
+import keyboard as kb
 
 def death_counter():
     window = tk.Tk()
