@@ -2,23 +2,27 @@ import tkinter as tk
 
 death_counter = 0
 
-def death_counter():
+def death_count():
     window = tk.Tk()
 
     window.title("Death Counter")
 
     window.geometry("400x200")
 
-    label = tk.Label(window, text="Death Counter", font=("Arial", 20))
+    def add_death(event):
+        global death_counter
+        death_counter += 1
+        label.config(text=f"Death Counter: {death_counter}")
+        
+    def reset_death():
+       global death_counter
+       death_counter = 0
+       label.config(text=f"Death Counter: {death_counter}")
+    
+    label = tk.Label(window, text=f"Death Counter: {death_counter}", font=("Arial", 20))
 
     label.pack(pady=20)
 
-    def add_death(event):
-        death_counter =+ 1
-
-    def reset_death():
-        death_counter = 0
-    
     button = tk.Button(window, text="Reset", font=("Arial", 20), command=reset_death)
 
     button.pack(pady=20)
@@ -27,4 +31,4 @@ def death_counter():
 
     window.mainloop()
 
-death_counter()
+death_count()
