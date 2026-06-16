@@ -3,10 +3,11 @@
 def from_one_to_hundred():
     counter = 0
     print(counter)
-    while():
-        if counter != 100:
+    
+    if counter > 100:
+        while True:
             counter += 1
             print(counter)
-        else:
-            return
+    else:
+        return
 from_one_to_hundred()
