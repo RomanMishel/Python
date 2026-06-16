@@ -1,11 +1,11 @@
+import time
+
 def from_one_to_hundred():
     counter = 0
-    print(counter)
-    
-    if counter > 100:
-        while True:
-            counter += 1
-            print(counter)
-    else:
-        return
+        
+    while counter <= 100:
+        print(counter)
+        time.sleep(1)
+        counter +=1
+
 from_one_to_hundred()
