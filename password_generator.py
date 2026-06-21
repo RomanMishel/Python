@@ -1,10 +1,5 @@
 import random
 
-global password 
-password = ""
-
-user_input = int(input("How many characters password should be: "))
-
 numbers = [
     "1","2","3","4","5","6","7","8","9","0"
     ]
@@ -30,13 +25,19 @@ S_symbols = [
     ";", ":", "<", ">", "/","?", "~"
 ]
 
-def pass_generator(length={user_input}):
+length = int(input("How many characters password should be: "))
+
+def pass_generator(length):
+    password = ""
+    full_password = numbers + U_letters + L_letters + S_symbols
+
+    for i in range(length):
+        r_chars = random.choice(full_password)
+        password = password + r_chars
     
-    for i in range(user_input):
-        r_num = random.choice(numbers)
-        r_letter = random.choice(U_letters + L_letters)
-    
-    password = password + r_num + r_letter
     print(password)
-    return
-pass_generator()
+    return password
+
+
+pass_generator(length)
+
