@@ -1,7 +1,7 @@
 import tkinter as tk
 import time
 
-def countdown():
+def countdown_timer():
     
     window = tk.Tk()
 
@@ -9,20 +9,31 @@ def countdown():
 
     window.geometry("400x200")
 
+    
     def timer():
-        seconds = entry.get()
-        print(f"User has entered: {seconds}")
+        seconds = int(entry.get())
+        label.config(text=f"User has entered: {seconds}")
+        countdown(seconds)
 
-        while seconds > 0:
-            minutes = seconds // 60
-            remaining_time = seconds % 60
-            time.sleep(1)
-            seconds -= 1
-        label = tk.Label(window, text=f"{minutes:02}:{remaining_time:02}", font=("Arial", 20))
+    def countdown(seconds):
+        if seconds >=0:
+            label.config(text=seconds)
+            window.after(1000, countdown, seconds - 1)
+        else:
+            label.config(text="Countdown Finished!", font=("Arial", 20))
+    
+    label = tk.Label(window, text="Введите секунды", font=("Arial", 20))
+    label.pack(pady=20)
 
-        label.pack(pady=20)
+    entry = tk.Entry(window)
+    entry.pack()
 
-        entry = tk.Entry(window)
+    button = tk.Button(window, text="Start", command=timer)
+    button.pack(pady=15)
+    
+    window.mainloop()
+
+countdown_timer()
 
 
             
