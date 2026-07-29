@@ -107,7 +107,8 @@ def dice_game():
                 print("CPU wins!")
                 print(dice_6)
             else:
-                print("Error")
+                dice_num == cpu_try
+                print("Draw!")
     else:
         print("Something went wrong!")
         return
