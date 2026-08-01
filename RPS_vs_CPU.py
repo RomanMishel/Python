@@ -20,6 +20,10 @@ def RPS():
         print("Rock beats Scissors, Player 1 wins")
         return
     
+    elif player_1_choice == Paper and cpu_choice == Rock:
+        print("Paper beats Rock, Player 1 wins")
+        return
+    
     else: 
         print("CPU wins")
         return
