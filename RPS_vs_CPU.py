@@ -1,6 +1,6 @@
 import random
 
-def RPS():
+def rps_vs_cpu():
     Rock = "1"
     Paper = "2" 
     Scissors = "3"
@@ -27,4 +27,4 @@ def RPS():
     else: 
         print("CPU wins")
         return
-RPS()
+rps_vs_cpu()
