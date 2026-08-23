@@ -10,5 +10,6 @@ for num in num_list:
 
     else:
         print("Error")
+        
 print(pos_list)
 print(neg_list)
