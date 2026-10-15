@@ -1,0 +1,22 @@
+[
+  {
+    "Label": "brave-default",
+    "CopySHA256": "149c56523f4709d43bba390ba2abda20e14a7829da2e764c6d0e8613b69cec09",
+    "SourceCopyWasLive": true,
+    "JournalBytes": 0,
+    "Integrity": "ok",
+    "HistoryMatches": [],
+    "DownloadMatches": [],
+    "Status": "OK"
+  },
+  {
+    "Label": "brave-profile1",
+    "CopySHA256": "80a1bdc53a5f318a23e8e487d97215364df9f75bf7a3200159466e6a4045bac1",
+    "SourceCopyWasLive": true,
+    "JournalBytes": 4856536,
+    "Integrity": "ok",
+    "HistoryMatches": [],
+    "DownloadMatches": [],
+    "Status": "OK"
+  }
+]

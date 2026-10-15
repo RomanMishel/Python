@@ -1,0 +1,23 @@
+{
+  "DNS": [
+    {
+      "Name": "i.clean.gg",
+      "Type": 1,
+      "IPAddress": "34.95.69.49",
+      "NameHost": null,
+      "TTL": 251
+    },
+    {
+      "Name": "clean.gg",
+      "Type": 1,
+      "IPAddress": "34.95.69.49",
+      "NameHost": null,
+      "TTL": 300
+    }
+  ],
+  "DefenderTargetEvents": [
+    {
+      "Error": "No events were found that match the specified selection criteria."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "CheckedAtUTC": "2026-10-15T09:03:19.310901+00:00",
+  "History": [
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\History",
+      "Size": 19595264,
+      "Status": "ERROR",
+      "Error": "database is locked"
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\History",
+      "Size": 8568832,
+      "Status": "ERROR",
+      "Error": "attempt to write a readonly database"
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History",
+      "Size": 34275328,
+      "Status": "OK",
+      "Matches": [],
+      "DownloadMatches": []
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Google\\Chrome\\User Data\\Guest Profile\\History",
+      "Size": 163840,
+      "Status": "OK",
+      "Matches": [],
+      "DownloadMatches": []
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\History",
+      "Size": 9568256,
+      "Status": "OK",
+      "Matches": [],
+      "DownloadMatches": []
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\History",
+      "Size": 262144,
+      "Status": "OK",
+      "Matches": [],
+      "DownloadMatches": []
+    }
+  ],
+  "BrowserNetworkState": [
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Network\\Network Persistent State",
+      "MatchingHostsOrIPs": [],
+      "Bytes": 103384
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\Network\\Network Persistent State",
+      "MatchingHostsOrIPs": [],
+      "Bytes": 6184
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State",
+      "MatchingHostsOrIPs": [],
+      "Bytes": 98034
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Google\\Chrome\\User Data\\Guest Profile\\Network\\Network Persistent State",
+      "MatchingHostsOrIPs": [],
+      "Bytes": 690
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Network\\Network Persistent State",
+      "MatchingHostsOrIPs": [],
+      "Bytes": 61
+    },
+    {
+      "Source": "C:\\Users\\seala\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Network\\Network Persistent State",
+      "MatchingHostsOrIPs": [],
+      "Bytes": 19481
+    }
+  ],
+  "BlitzNetworkEntries": [
+    {
+      "JSONPath": "$.net.http_server_properties.servers[232]",
+      "Entry": {
+        "alternative_service": [
+          {
+            "advertised_alpns": [
+              "h3"
+            ],
+            "expiration": "13439119893396664",
+            "port": 443,
+            "protocol_str": "quic"
+          }
+        ],
+        "anonymization": [],
+        "network_stats": {
+          "srtt": 7845
+        },
+        "server": "https://i.clean.gg",
+        "supports_spdy": true
+      }
+    }
+  ],
+  "BlitzLogs": [],
+  "BlitzWindowEventsToday": []
+}

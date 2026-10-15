@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "HNS Container Networking - ICS DNS (TCP-In) - C08CB7B8-9B3C-408E-8E30-5E16A3AEB445 - 0",
+    "Protocol": "TCP",
+    "Port": "53",
+    "InterfaceAlias": "Any",
+    "InterfaceType": 0
+  },
+  {
+    "Name": "HNS Container Networking - DNS (UDP-In) - C08CB7B8-9B3C-408E-8E30-5E16A3AEB445 - 0",
+    "Protocol": "UDP",
+    "Port": "53",
+    "InterfaceAlias": "vEthernet (Default Switch)",
+    "InterfaceType": 0
+  }
+]

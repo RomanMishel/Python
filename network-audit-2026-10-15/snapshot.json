@@ -1,0 +1,6556 @@
+{
+  "CapturedAt": "2026-10-15T09:21:25.7830552+03:00",
+  "TCP": [
+    {
+      "LocalAddress": "::",
+      "LocalPort": 65331,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T06:08:36+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 64177,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:17:38+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 63930,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:09:30+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 63677,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62985,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:16+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62916,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:25:56+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62578,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:20:50+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62576,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:20:50+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62278,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:41+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62276,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62275,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62274,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 62272,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61810,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:39:13+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61784,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19440,
+      "CreationTime": "2026-10-15T09:19:32+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61703,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T07:04:53+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61561,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:21:16+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61421,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:45:31+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61212,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T07:34:30+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61042,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T08:53:37+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 61021,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:20:48+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 60959,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 26676,
+      "CreationTime": "2026-10-15T06:20:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 60633,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T09:18:54+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 60289,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:17:21+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 60227,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T06:08:30+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 59750,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:56:45+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 57874,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T09:20:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 57470,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:18:15+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 57205,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:15:29+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56954,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T09:19:06+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56897,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 13052,
+      "CreationTime": "2026-10-15T06:07:51+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56895,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 13052,
+      "CreationTime": "2026-10-15T06:07:51+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56789,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T08:56:46+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56761,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56760,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56759,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56468,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56467,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56302,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 24320,
+      "CreationTime": "2026-10-15T07:57:33+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 56001,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:13+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55764,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:34+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55544,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55543,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55542,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55541,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55540,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55538,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55537,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 55536,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 54389,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T08:39:38+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53957,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53584,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:54:54+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53583,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53582,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53581,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53580,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53579,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53578,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53577,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53576,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53575,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53342,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53340,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53339,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53338,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53337,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53336,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53334,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53333,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53332,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53331,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53330,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 53305,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T09:19:06+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 52916,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:21:26+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 52272,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T09:21:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 52017,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 52015,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 52014,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51623,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:50:42+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51251,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:36+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51247,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51245,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51244,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51243,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51242,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51240,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 51190,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:57:30+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 50918,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:50:52+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 50873,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:18:08+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 50528,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:04:10+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 50426,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:21:21+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 50268,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3856,
+      "CreationTime": "2026-10-15T06:07:49+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49605,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:08+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49328,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49327,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49326,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49324,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 65331,
+      "RemoteAddress": "2a00:1450:400c:c0a::bc",
+      "RemotePort": 5228,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T06:08:36+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 64177,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:17:38+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 63930,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:09:30+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 63712,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 63677,
+      "RemoteAddress": "2400:52e0:1e03::1486:1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62985,
+      "RemoteAddress": "2a03:2880:f319:186:face:b00c:0:1cc9",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:16+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62916,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:25:56+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62578,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:20:50+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62577,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62576,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:20:50+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62280,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62279,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62278,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:41+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62277,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62276,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62275,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62274,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62273,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62272,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62271,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62270,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 62269,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61810,
+      "RemoteAddress": "2a03:2880:f319:91:face:b00c:0:6206",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:39:13+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61784,
+      "RemoteAddress": "2600:1901:0:5e8a::",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 19440,
+      "CreationTime": "2026-10-15T09:19:32+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61703,
+      "RemoteAddress": "2a00:1450:4001:c21::bc",
+      "RemotePort": 5228,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T07:04:53+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61562,
+      "RemoteAddress": "2a01:4f8:c01e:413::1",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61561,
+      "RemoteAddress": "2a04:4e42:8e::300",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:21:16+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61421,
+      "RemoteAddress": "2603:1046:c12:1400::2",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:45:31+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61212,
+      "RemoteAddress": "2a03:2880:f319:120:face:b00c:0:167",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T07:34:30+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61042,
+      "RemoteAddress": "2a03:2880:f319:120:face:b00c:0:167",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T08:53:37+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61025,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61024,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61023,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61022,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 61021,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:20:48+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 60959,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 26676,
+      "CreationTime": "2026-10-15T06:20:19+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 60925,
+      "RemoteAddress": "2a00:a040:3:2::162",
+      "RemotePort": 53,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 60750,
+      "RemoteAddress": "2a00:a040:3:2::162",
+      "RemotePort": 53,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 60633,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T09:18:54+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 60289,
+      "RemoteAddress": "2606:4700:3030::ac43:a869",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:17:21+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 60227,
+      "RemoteAddress": "2a00:1450:400c:c0a::bc",
+      "RemotePort": 5228,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T06:08:30+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 59750,
+      "RemoteAddress": "2606:4700:4403::ac40:94eb",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:56:45+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 58616,
+      "RemoteAddress": "2a00:a040:3:2::162",
+      "RemotePort": 53,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57785,
+      "RemoteAddress": "2a00:a040:3:2::162",
+      "RemotePort": 53,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57608,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57607,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57606,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57605,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57604,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 57470,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:18:15+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56954,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T09:19:06+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56897,
+      "RemoteAddress": "2603:1063:2001:3203::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 13052,
+      "CreationTime": "2026-10-15T06:07:51+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56895,
+      "RemoteAddress": "2603:1063:2001:3203::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 13052,
+      "CreationTime": "2026-10-15T06:07:51+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56789,
+      "RemoteAddress": "2606:4700:20::ac43:4969",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T08:56:46+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56761,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56760,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56759,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56405,
+      "RemoteAddress": "2a00:a040:3:2::162",
+      "RemotePort": 53,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56302,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 24320,
+      "CreationTime": "2026-10-15T07:57:33+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 56001,
+      "RemoteAddress": "2603:1046:c12:c00::2",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:13+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55764,
+      "RemoteAddress": "2607:5300:60:4fc1::",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:34+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55546,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55545,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55544,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55543,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55542,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55541,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55540,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55539,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55538,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55537,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 55536,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:40+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 54389,
+      "RemoteAddress": "2600:1901:0:85c5::",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T08:39:38+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53979,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53977,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53957,
+      "RemoteAddress": "2a03:2880:f319:91:face:b00c:0:6206",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53584,
+      "RemoteAddress": "2606:4700:4403::ac40:94eb",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:54:54+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53583,
+      "RemoteAddress": "2603:1063:2001:3200::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53582,
+      "RemoteAddress": "2603:1063:2001:3200::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53581,
+      "RemoteAddress": "2603:1063:2001:3200::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53580,
+      "RemoteAddress": "2603:1063:2001:3200::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53579,
+      "RemoteAddress": "2603:1063:2001:3200::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53578,
+      "RemoteAddress": "2603:1063:2001:3200::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53577,
+      "RemoteAddress": "2603:1063:2001:3201::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53576,
+      "RemoteAddress": "2603:1063:2001:3201::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53575,
+      "RemoteAddress": "2603:1063:2001:3201::365:ff1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 11604,
+      "CreationTime": "2026-10-15T06:11:05+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53342,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53340,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53339,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53338,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53337,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53334,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53333,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53332,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53331,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53330,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:01+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53306,
+      "RemoteAddress": "2a00:a040:3:2::162",
+      "RemotePort": 53,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53305,
+      "RemoteAddress": "2606:4700:4403::ac40:94eb",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T09:19:06+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 52916,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:21:26+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 52268,
+      "RemoteAddress": "2a01:4f8:c01e:413::1",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 52017,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 52015,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 52014,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51623,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:50:42+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51605,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51251,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:19:36+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51247,
+      "RemoteAddress": "2606:4700::6812:e1d",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51245,
+      "RemoteAddress": "2606:4700:10::6814:1b19",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51244,
+      "RemoteAddress": "2600:9000:2837:7400:1b:cadc:ef40:93a1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51243,
+      "RemoteAddress": "2606:4700:10::ac42:a08b",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51242,
+      "RemoteAddress": "2606:4700:10::6814:1b19",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51241,
+      "RemoteAddress": "2600:9000:21b3:5a00:19:b6f1:d180:93a1",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51240,
+      "RemoteAddress": "2600:9000:2837:7400:1b:cadc:ef40:93a1",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:07+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51190,
+      "RemoteAddress": "2606:4700:440b::6812:2715",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:57:30+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51154,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51153,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51152,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 51151,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50918,
+      "RemoteAddress": "2606:4700:4409::ac40:961c",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3828,
+      "CreationTime": "2026-10-15T08:50:52+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50873,
+      "RemoteAddress": "2a03:2880:f319:120:face:b00c:0:167",
+      "RemotePort": 5222,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:18:08+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50550,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50549,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50528,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:04:10+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50426,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T09:21:21+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50425,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50424,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 50268,
+      "RemoteAddress": "2603:1020:805:3::402",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3856,
+      "CreationTime": "2026-10-15T06:07:49+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49671,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 8844,
+      "CreationTime": "2026-10-15T06:07:21+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49670,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1656,
+      "CreationTime": "2026-10-15T06:07:21+03:00"
+    },
+    {
+      "LocalAddress": "::1",
+      "LocalPort": 49669,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 5112,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49668,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 4728,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49667,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 3784,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49666,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 2456,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49665,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1548,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 49664,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1684,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 49605,
+      "RemoteAddress": "2606:4700::6812:f1d",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:08+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 49327,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 49326,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 49324,
+      "RemoteAddress": "2a06:98c1:3101::6812:202f",
+      "RemotePort": 443,
+      "State": 8,
+      "OwningProcess": 7836,
+      "CreationTime": "2026-10-15T08:16:11+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 7680,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 25820,
+      "CreationTime": "2026-10-15T06:09:52+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 3389,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 9072,
+      "CreationTime": "2026-10-15T06:07:21+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 2179,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 3340,
+      "CreationTime": "2026-10-15T06:07:20+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 445,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 4,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 135,
+      "RemoteAddress": "::",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 2012,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 63761,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:35+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 63184,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:21:24+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 62982,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19440,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 62007,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T09:17:42+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 61560,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:21:16+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 60902,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 8264,
+      "CreationTime": "2026-10-15T06:09:31+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 60041,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T09:17:16+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 59392,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 3540,
+      "CreationTime": "2026-10-15T06:39:40+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 59332,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 59331,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 59329,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17316,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 59328,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17316,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57403,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57402,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57401,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57400,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57397,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57396,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57395,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57123,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 57122,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 56770,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:13+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 56628,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 55782,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T08:49:58+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 55697,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:33+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 55487,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:01+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 54561,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:33+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 53965,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 53959,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 53294,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:21:16+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 53023,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T08:31:11+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 52915,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:21:25+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 51549,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:20:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 50900,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:06+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 50548,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:21:24+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49853,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 100,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T08:50:08+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 63761,
+      "RemoteAddress": "13.224.245.88",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:35+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 63417,
+      "RemoteAddress": "167.233.8.106",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 63184,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 5000,
+      "State": 3,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:21:24+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 62982,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 23373,
+      "State": 5,
+      "OwningProcess": 19440,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 62007,
+      "RemoteAddress": "49.13.42.238",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T09:17:42+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 61560,
+      "RemoteAddress": "13.229.47.174",
+      "RemotePort": 443,
+      "State": 3,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:21:16+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 60041,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T09:17:16+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 59392,
+      "RemoteAddress": "149.154.167.92",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 3540,
+      "CreationTime": "2026-10-15T06:39:40+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 59332,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 59331,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 59330,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 55487,
+      "State": 5,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:01+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 59330,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:01+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 59329,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57107,
+      "State": 5,
+      "OwningProcess": 17316,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 59328,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57108,
+      "State": 5,
+      "OwningProcess": 17316,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57874,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6329,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T09:20:05+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57403,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56625,
+      "State": 5,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57402,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56625,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57401,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57393,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57400,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56625,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57397,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56625,
+      "State": 5,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57396,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57395,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56625,
+      "State": 5,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57393,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57401,
+      "State": 5,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57393,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 19576,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57123,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57122,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57121,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57108,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 59328,
+      "State": 5,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57108,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T06:07:57+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57107,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 59329,
+      "State": 5,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 57107,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T06:07:57+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 56770,
+      "RemoteAddress": "131.153.232.252",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:13+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56628,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56625,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57402,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56625,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57403,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56625,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57397,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56625,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57400,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56625,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57395,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56625,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T06:08:06+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56468,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6329,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 56467,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6329,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 55782,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6327,
+      "State": 5,
+      "OwningProcess": 17680,
+      "CreationTime": "2026-10-15T08:49:58+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 55697,
+      "RemoteAddress": "44.241.83.144",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:33+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 55487,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 59330,
+      "State": 5,
+      "OwningProcess": 19036,
+      "CreationTime": "2026-10-15T06:08:01+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 54561,
+      "RemoteAddress": "13.224.245.88",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T06:08:33+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53965,
+      "RemoteAddress": "57.144.62.145",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53959,
+      "RemoteAddress": "149.154.167.91",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53296,
+      "RemoteAddress": "167.233.8.106",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53295,
+      "RemoteAddress": "167.233.8.106",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53294,
+      "RemoteAddress": "13.229.47.174",
+      "RemotePort": 443,
+      "State": 3,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:21:16+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53023,
+      "RemoteAddress": "155.133.229.4",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T08:31:11+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 52915,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 5000,
+      "State": 3,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:21:25+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 52272,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 6329,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T09:21:07+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 52271,
+      "RemoteAddress": "49.13.42.238",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 52269,
+      "RemoteAddress": "49.13.42.238",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 52267,
+      "RemoteAddress": "49.13.42.238",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 51549,
+      "RemoteAddress": "146.75.122.214",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20932,
+      "CreationTime": "2026-10-15T09:20:19+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 51246,
+      "RemoteAddress": "34.95.69.49",
+      "RemotePort": 443,
+      "State": 11,
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 50900,
+      "RemoteAddress": "169.150.202.210",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T09:20:06+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 50548,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 5000,
+      "State": 3,
+      "OwningProcess": 18168,
+      "CreationTime": "2026-10-15T09:21:24+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 50458,
+      "RemoteAddress": "213.57.94.219",
+      "RemotePort": 49965,
+      "State": 5,
+      "OwningProcess": 1364,
+      "CreationTime": "2026-10-15T07:48:25+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 50458,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1364,
+      "CreationTime": "2026-10-15T07:48:25+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 49853,
+      "RemoteAddress": "149.154.167.41",
+      "RemotePort": 443,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T08:50:08+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49671,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 8844,
+      "CreationTime": "2026-10-15T06:07:21+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49670,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1656,
+      "CreationTime": "2026-10-15T06:07:21+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49668,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 4728,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49667,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 3784,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49666,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 2456,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49665,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1548,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 49664,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 1684,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 27036,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 17032,
+      "CreationTime": "2026-10-15T06:08:03+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 23373,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 62982,
+      "State": 5,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 23373,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 21384,
+      "CreationTime": "2026-10-15T06:08:15+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6329,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 52272,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T09:21:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6329,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57874,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T09:20:05+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6329,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56468,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6329,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56467,
+      "State": 5,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6329,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 17744,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6328,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:58+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 59331,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57396,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:08:07+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57123,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 59332,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:08:00+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 56628,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 60041,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T09:17:16+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 55782,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T08:49:58+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "127.0.0.1",
+      "RemotePort": 57122,
+      "State": 5,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:59+03:00"
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 6327,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 16740,
+      "CreationTime": "2026-10-15T06:07:58+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 5040,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 11548,
+      "CreationTime": "2026-10-15T06:07:49+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 3389,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 9072,
+      "CreationTime": "2026-10-15T06:07:21+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 2179,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 3340,
+      "CreationTime": "2026-10-15T06:07:20+03:00"
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 139,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 4,
+      "CreationTime": "2026-10-15T06:07:18+03:00"
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 139,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 4,
+      "CreationTime": "2026-10-15T06:07:33+03:00"
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 139,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 4,
+      "CreationTime": "2026-10-15T06:07:36+03:00"
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 135,
+      "RemoteAddress": "0.0.0.0",
+      "RemotePort": 0,
+      "State": 2,
+      "OwningProcess": 2012,
+      "CreationTime": "2026-10-15T06:07:19+03:00"
+    }
+  ],
+  "UDP": [
+    {
+      "LocalAddress": "::1",
+      "LocalPort": 62794,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "fe80::2991:c0ae:bf83:d675%18",
+      "LocalPort": 62793,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "fe80::7d66:bcf4:2ec:d36%16",
+      "LocalPort": 62792,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "fe80::b227:7526:61d8:380e%20",
+      "LocalPort": 62791,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 57873,
+      "OwningProcess": 3172
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 53885,
+      "OwningProcess": 3828
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:7392:8bf4:2c03:c679",
+      "LocalPort": 53884,
+      "OwningProcess": 3828
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 52813,
+      "OwningProcess": 4340
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 27036,
+      "OwningProcess": 17032
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 5355,
+      "OwningProcess": 3172
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 5353,
+      "OwningProcess": 3172
+    },
+    {
+      "LocalAddress": "::",
+      "LocalPort": 3389,
+      "OwningProcess": 9072
+    },
+    {
+      "LocalAddress": "fe80::b227:7526:61d8:380e%20",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "fe80::7d66:bcf4:2ec:d36%16",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "fe80::2991:c0ae:bf83:d675%18",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "2a00:a041:eabd:ed00:7392:8bf4:2c03:c679",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "fe80::b227:7526:61d8:380e%20",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "fe80::7d66:bcf4:2ec:d36%16",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "fe80::2991:c0ae:bf83:d675%18",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "::1",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 62798,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 62797,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 62796,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 62795,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 61773,
+      "OwningProcess": 5152
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 60806,
+      "OwningProcess": 20932
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 60764,
+      "OwningProcess": 9388
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 54123,
+      "OwningProcess": 20444
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 53883,
+      "OwningProcess": 3828
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 53882,
+      "OwningProcess": 3828
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 53881,
+      "OwningProcess": 3828
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 52812,
+      "OwningProcess": 4340
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 52811,
+      "OwningProcess": 4340
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 51866,
+      "OwningProcess": 1364
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 27036,
+      "OwningProcess": 17032
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 27036,
+      "OwningProcess": 17032
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 21119,
+      "OwningProcess": 1364
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 10010,
+      "OwningProcess": 9388
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 5355,
+      "OwningProcess": 3172
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 5353,
+      "OwningProcess": 24320
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 5050,
+      "OwningProcess": 11548
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 3389,
+      "OwningProcess": 9072
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 2177,
+      "OwningProcess": 27060
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "127.0.0.1",
+      "LocalPort": 1900,
+      "OwningProcess": 15440
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 138,
+      "OwningProcess": 4
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 138,
+      "OwningProcess": 4
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 138,
+      "OwningProcess": 4
+    },
+    {
+      "LocalAddress": "192.168.56.1",
+      "LocalPort": 137,
+      "OwningProcess": 4
+    },
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 137,
+      "OwningProcess": 4
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 137,
+      "OwningProcess": 4
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 68,
+      "OwningProcess": 4340
+    },
+    {
+      "LocalAddress": "172.22.128.1",
+      "LocalPort": 67,
+      "OwningProcess": 4340
+    },
+    {
+      "LocalAddress": "0.0.0.0",
+      "LocalPort": 53,
+      "OwningProcess": 4340
+    }
+  ],
+  "Processes": [
+    {
+      "ProcessId": 0,
+      "ParentProcessId": 0,
+      "Name": "System Idle Process",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4,
+      "ParentProcessId": 0,
+      "Name": "System",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 284,
+      "ParentProcessId": 4,
+      "Name": "Secure System",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 328,
+      "ParentProcessId": 4,
+      "Name": "Registry",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1012,
+      "ParentProcessId": 4,
+      "Name": "smss.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1464,
+      "ParentProcessId": 1448,
+      "Name": "csrss.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1548,
+      "ParentProcessId": 1448,
+      "Name": "wininit.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1556,
+      "ParentProcessId": 1540,
+      "Name": "csrss.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1656,
+      "ParentProcessId": 1548,
+      "Name": "services.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1676,
+      "ParentProcessId": 1548,
+      "Name": "LsaIso.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1684,
+      "ParentProcessId": 1548,
+      "Name": "lsass.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1736,
+      "ParentProcessId": 1540,
+      "Name": "winlogon.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1888,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1920,
+      "ParentProcessId": 1548,
+      "Name": "fontdrvhost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1928,
+      "ParentProcessId": 1736,
+      "Name": "fontdrvhost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2012,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1392,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 1560,
+      "ParentProcessId": 1736,
+      "Name": "dwm.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2136,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2144,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2268,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2276,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2284,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2292,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2300,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2448,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2456,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2528,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2536,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2544,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2552,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2728,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2784,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2816,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3172,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3212,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3220,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3228,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3340,
+      "ParentProcessId": 1656,
+      "Name": "vmms.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3496,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3560,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3616,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3656,
+      "ParentProcessId": 1656,
+      "Name": "NVDisplay.Container.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3712,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3784,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3804,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3864,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3876,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3884,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3972,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4020,
+      "ParentProcessId": 4,
+      "Name": "Memory Compression",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4076,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4092,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3760,
+      "ParentProcessId": 1656,
+      "Name": "WUDFHost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4128,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4196,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4220,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4340,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4404,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4488,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4496,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4568,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4728,
+      "ParentProcessId": 1656,
+      "Name": "spoolsv.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4848,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5008,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5040,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5048,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5056,
+      "ParentProcessId": 1656,
+      "Name": "AmneziaVPN-service.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5064,
+      "ParentProcessId": 1656,
+      "Name": "GameInputRedistService.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5072,
+      "ParentProcessId": 1656,
+      "Name": "Everything.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5080,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5088,
+      "ParentProcessId": 1656,
+      "Name": "nvcontainer.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5096,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5104,
+      "ParentProcessId": 1656,
+      "Name": "sl-browser-service.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5112,
+      "ParentProcessId": 1656,
+      "Name": "jhi_service.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3856,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4248,
+      "ParentProcessId": 1656,
+      "Name": "RstMwService.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4392,
+      "ParentProcessId": 1656,
+      "Name": "windhawk.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4780,
+      "ParentProcessId": 1656,
+      "Name": "WMIRegistrationService.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5124,
+      "ParentProcessId": 1656,
+      "Name": "MsMpEng.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5152,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5160,
+      "ParentProcessId": 1656,
+      "Name": "MpDefenderCoreService.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5168,
+      "ParentProcessId": 1656,
+      "Name": "wslservice.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5608,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5796,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 5940,
+      "ParentProcessId": 1656,
+      "Name": "vmcompute.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 6124,
+      "ParentProcessId": 1656,
+      "Name": "com.docker.service",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 6488,
+      "ParentProcessId": 1888,
+      "Name": "WmiPrvSE.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 6896,
+      "ParentProcessId": 3656,
+      "Name": "NVDisplay.Container.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8480,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8708,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8776,
+      "ParentProcessId": 8708,
+      "Name": "NgcIso.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9064,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9072,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8628,
+      "ParentProcessId": 1656,
+      "Name": "codex-windows-sandbox-service.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8616,
+      "ParentProcessId": 1656,
+      "Name": "gamingservices.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8632,
+      "ParentProcessId": 1656,
+      "Name": "gamingservicesnet.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8568,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8892,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 4888,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 8844,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9452,
+      "ParentProcessId": 5008,
+      "Name": "AggregatorHost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9656,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9776,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10048,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10128,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10144,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10352,
+      "ParentProcessId": 1656,
+      "Name": "GameInputSvc.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10380,
+      "ParentProcessId": 10352,
+      "Name": "GameInputSvc.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10808,
+      "ParentProcessId": 1656,
+      "Name": "NisSrv.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 11240,
+      "ParentProcessId": 5088,
+      "Name": "nvcontainer.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10336,
+      "ParentProcessId": 5064,
+      "Name": "GameInputRedistService.exe",
+      "ExecutablePath": "C:\\Program Files\\Microsoft GameInput\\x64\\GameInputRedistService.exe"
+    },
+    {
+      "ProcessId": 3008,
+      "ParentProcessId": 4392,
+      "Name": "windhawk.exe",
+      "ExecutablePath": "C:\\Program Files\\Windhawk\\windhawk.exe"
+    },
+    {
+      "ProcessId": 1596,
+      "ParentProcessId": 5124,
+      "Name": "DefenderSessionHelper.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9388,
+      "ParentProcessId": 5088,
+      "Name": "nvcontainer.exe",
+      "ExecutablePath": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe"
+    },
+    {
+      "ProcessId": 7360,
+      "ParentProcessId": 2728,
+      "Name": "sihost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\sihost.exe"
+    },
+    {
+      "ProcessId": 7736,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 6384,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 7548,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 10552,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 11548,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 11604,
+      "ParentProcessId": 11540,
+      "Name": "explorer.exe",
+      "ExecutablePath": "C:\\WINDOWS\\Explorer.EXE"
+    },
+    {
+      "ProcessId": 11668,
+      "ParentProcessId": 7360,
+      "Name": "ShellHost.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\ShellHost.exe"
+    },
+    {
+      "ProcessId": 11824,
+      "ParentProcessId": 2456,
+      "Name": "taskhostw.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\taskhostw.exe"
+    },
+    {
+      "ProcessId": 12048,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 12128,
+      "ParentProcessId": 7360,
+      "Name": "CrossDeviceResume.exe",
+      "ExecutablePath": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe"
+    },
+    {
+      "ProcessId": 2996,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 12580,
+      "ParentProcessId": 1888,
+      "Name": "CrossDeviceService.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.26082.74.0_x64__cw5n1h2txyewy\\CrossDeviceService.exe"
+    },
+    {
+      "ProcessId": 13024,
+      "ParentProcessId": 1888,
+      "Name": "SearchHost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe"
+    },
+    {
+      "ProcessId": 13052,
+      "ParentProcessId": 1888,
+      "Name": "StartMenuExperienceHost.exe",
+      "ExecutablePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe"
+    },
+    {
+      "ProcessId": 13244,
+      "ParentProcessId": 1888,
+      "Name": "Widgets.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe"
+    },
+    {
+      "ProcessId": 11492,
+      "ParentProcessId": 1888,
+      "Name": "RuntimeBroker.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "ProcessId": 9844,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 10568,
+      "ParentProcessId": 1888,
+      "Name": "UserOOBEBroker.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe"
+    },
+    {
+      "ProcessId": 13364,
+      "ParentProcessId": 1888,
+      "Name": "WidgetService.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe"
+    },
+    {
+      "ProcessId": 12888,
+      "ParentProcessId": 13024,
+      "Name": "msedgewebview2.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\155.0.4283.45\\msedgewebview2.exe"
+    },
+    {
+      "ProcessId": 14348,
+      "ParentProcessId": 12888,
+      "Name": "msedgewebview2.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\155.0.4283.45\\msedgewebview2.exe"
+    },
+    {
+      "ProcessId": 15284,
+      "ParentProcessId": 12888,
+      "Name": "msedgewebview2.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\155.0.4283.45\\msedgewebview2.exe"
+    },
+    {
+      "ProcessId": 15296,
+      "ParentProcessId": 12888,
+      "Name": "msedgewebview2.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\155.0.4283.45\\msedgewebview2.exe"
+    },
+    {
+      "ProcessId": 14500,
+      "ParentProcessId": 12888,
+      "Name": "msedgewebview2.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\155.0.4283.45\\msedgewebview2.exe"
+    },
+    {
+      "ProcessId": 15432,
+      "ParentProcessId": 12888,
+      "Name": "msedgewebview2.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\155.0.4283.45\\msedgewebview2.exe"
+    },
+    {
+      "ProcessId": 15600,
+      "ParentProcessId": 1888,
+      "Name": "RuntimeBroker.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "ProcessId": 16152,
+      "ParentProcessId": 1656,
+      "Name": "SearchIndexer.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16260,
+      "ParentProcessId": 9736,
+      "Name": "BraveCrashHandler.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 14444,
+      "ParentProcessId": 9736,
+      "Name": "BraveCrashHandler64.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 15440,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16328,
+      "ParentProcessId": 1888,
+      "Name": "PhoneExperienceHost.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26072.257.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe"
+    },
+    {
+      "ProcessId": 1972,
+      "ParentProcessId": 4404,
+      "Name": "ctfmon.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 14972,
+      "ParentProcessId": 4404,
+      "Name": "TabTip.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16532,
+      "ParentProcessId": 16432,
+      "Name": "HWiNFO64.EXE",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16564,
+      "ParentProcessId": 11604,
+      "Name": "SecurityHealthSystray.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\SecurityHealthSystray.exe"
+    },
+    {
+      "ProcessId": 16608,
+      "ParentProcessId": 1656,
+      "Name": "SecurityHealthService.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16740,
+      "ParentProcessId": 11604,
+      "Name": "SteelSeriesGGEZ.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16816,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 17032,
+      "ParentProcessId": 11604,
+      "Name": "steam.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steam.exe"
+    },
+    {
+      "ProcessId": 17092,
+      "ParentProcessId": 17032,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 17184,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 17264,
+      "ParentProcessId": 1656,
+      "Name": "steamservice.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 10972,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 17316,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 16560,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 16724,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 17744,
+      "ParentProcessId": 16740,
+      "Name": "SteelSeriesGG.exe",
+      "ExecutablePath": "C:\\Program Files\\SteelSeries\\GG\\SteelSeriesGG.exe"
+    },
+    {
+      "ProcessId": 17820,
+      "ParentProcessId": 11604,
+      "Name": "wallpaper32.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe"
+    },
+    {
+      "ProcessId": 17892,
+      "ParentProcessId": 17820,
+      "Name": "webwallpaper64.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe"
+    },
+    {
+      "ProcessId": 18156,
+      "ParentProcessId": 17892,
+      "Name": "webwallpaper64.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe"
+    },
+    {
+      "ProcessId": 18168,
+      "ParentProcessId": 17892,
+      "Name": "webwallpaper64.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe"
+    },
+    {
+      "ProcessId": 18268,
+      "ParentProcessId": 17892,
+      "Name": "webwallpaper64.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe"
+    },
+    {
+      "ProcessId": 16196,
+      "ParentProcessId": 17892,
+      "Name": "webwallpaper64.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe"
+    },
+    {
+      "ProcessId": 17680,
+      "ParentProcessId": 16740,
+      "Name": "SteelSeriesEngine.exe",
+      "ExecutablePath": "C:\\Program Files\\SteelSeries\\GG\\apps\\engine\\SteelSeriesEngine.exe"
+    },
+    {
+      "ProcessId": 18580,
+      "ParentProcessId": 1888,
+      "Name": "TextInputHost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe"
+    },
+    {
+      "ProcessId": 19000,
+      "ParentProcessId": 17892,
+      "Name": "webwallpaper64.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe"
+    },
+    {
+      "ProcessId": 19036,
+      "ParentProcessId": 16740,
+      "Name": "SteelSeriesMoments.exe",
+      "ExecutablePath": "C:\\Program Files\\SteelSeries\\GG\\apps\\moments\\SteelSeriesMoments.exe"
+    },
+    {
+      "ProcessId": 19376,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 18720,
+      "ParentProcessId": 17820,
+      "Name": "winrtutil32.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\winrtutil32.exe"
+    },
+    {
+      "ProcessId": 18536,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe"
+    },
+    {
+      "ProcessId": 19576,
+      "ParentProcessId": 17680,
+      "Name": "SteelSeriesPrism.exe",
+      "ExecutablePath": "C:\\Program Files\\SteelSeries\\GG\\apps\\engine\\prism\\SteelSeriesPrism.exe"
+    },
+    {
+      "ProcessId": 19668,
+      "ParentProcessId": 20392,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe"
+    },
+    {
+      "ProcessId": 20172,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe"
+    },
+    {
+      "ProcessId": 19460,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe"
+    },
+    {
+      "ProcessId": 20444,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe"
+    },
+    {
+      "ProcessId": 21384,
+      "ParentProcessId": 11604,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe"
+    },
+    {
+      "ProcessId": 20640,
+      "ParentProcessId": 11604,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 20580,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 20160,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe"
+    },
+    {
+      "ProcessId": 20916,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 20932,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 20140,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 20972,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 21072,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 21140,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe"
+    },
+    {
+      "ProcessId": 19440,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe"
+    },
+    {
+      "ProcessId": 20784,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe"
+    },
+    {
+      "ProcessId": 19504,
+      "ParentProcessId": 20640,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 20288,
+      "ParentProcessId": 19504,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 21672,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 21848,
+      "ParentProcessId": 19504,
+      "Name": "extension-host.exe",
+      "ExecutablePath": "C:\\Users\\seala\\.codex\\plugins\\cache\\openai-bundled\\chrome\\latest\\extension-host\\windows\\x64\\extension-host.exe"
+    },
+    {
+      "ProcessId": 22304,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 22976,
+      "ParentProcessId": 11604,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+      "ProcessId": 23008,
+      "ParentProcessId": 22976,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+      "ProcessId": 23196,
+      "ParentProcessId": 22976,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+      "ProcessId": 23204,
+      "ParentProcessId": 22976,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+      "ProcessId": 23264,
+      "ParentProcessId": 22976,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+      "ProcessId": 11556,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 24320,
+      "ParentProcessId": 7360,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 14356,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 8716,
+      "ParentProcessId": 14356,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 4796,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 3828,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 22288,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 23544,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 24392,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 24332,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 2168,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 7836,
+      "ParentProcessId": 24320,
+      "Name": "codex.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\bin\\9614f1d9b40d9c4f\\codex.exe"
+    },
+    {
+      "ProcessId": 24396,
+      "ParentProcessId": 7836,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 24824,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 24752,
+      "ParentProcessId": 24320,
+      "Name": "codex-computer-use-swift.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_modules\\@oai\\sky\\bin\\windows\\swift\\x64\\codex-computer-use-swift.exe"
+    },
+    {
+      "ProcessId": 5268,
+      "ParentProcessId": 24752,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 26044,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 26304,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 25824,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 25832,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 26676,
+      "ParentProcessId": 24320,
+      "Name": "codex.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\bin\\9614f1d9b40d9c4f\\codex.exe"
+    },
+    {
+      "ProcessId": 25468,
+      "ParentProcessId": 26676,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 6584,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 11620,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 27060,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 27236,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 25508,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe"
+    },
+    {
+      "ProcessId": 25820,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 25172,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 2844,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 17044,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16372,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 9144,
+      "ParentProcessId": 1888,
+      "Name": "ApplicationFrameHost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\ApplicationFrameHost.exe"
+    },
+    {
+      "ProcessId": 8264,
+      "ParentProcessId": 1888,
+      "Name": "SystemSettings.exe",
+      "ExecutablePath": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe"
+    },
+    {
+      "ProcessId": 21704,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\svchost.exe"
+    },
+    {
+      "ProcessId": 5236,
+      "ParentProcessId": 1656,
+      "Name": "rustdesk.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 7616,
+      "ParentProcessId": 27260,
+      "Name": "rustdesk.exe",
+      "ExecutablePath": "C:\\Program Files\\RustDesk\\RustDesk.exe"
+    },
+    {
+      "ProcessId": 1364,
+      "ParentProcessId": 5236,
+      "Name": "rustdesk.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3944,
+      "ParentProcessId": 24352,
+      "Name": "rustdesk.exe",
+      "ExecutablePath": "C:\\Program Files\\RustDesk\\RustDesk.exe"
+    },
+    {
+      "ProcessId": 25840,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 22648,
+      "ParentProcessId": 1888,
+      "Name": "ShellExperienceHost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe"
+    },
+    {
+      "ProcessId": 26016,
+      "ParentProcessId": 1888,
+      "Name": "RuntimeBroker.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "ProcessId": 26704,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 27988,
+      "ParentProcessId": 1888,
+      "Name": "XboxPcAppFT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2609.1001.16.0_x64__8wekyb3d8bbwe\\XboxPcAppFT.exe"
+    },
+    {
+      "ProcessId": 3540,
+      "ParentProcessId": 11604,
+      "Name": "Telegram.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe"
+    },
+    {
+      "ProcessId": 7456,
+      "ParentProcessId": 19328,
+      "Name": "MoNotificationUx.exe",
+      "ExecutablePath": "C:\\WINDOWS\\uus\\AMD64\\MoNotificationUx.exe"
+    },
+    {
+      "ProcessId": 26976,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 28476,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 16868,
+      "ParentProcessId": 1364,
+      "Name": "rustdesk.exe",
+      "ExecutablePath": "C:\\Program Files\\RustDesk\\RustDesk.exe"
+    },
+    {
+      "ProcessId": 29316,
+      "ParentProcessId": 7836,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 10988,
+      "ParentProcessId": 7836,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 21088,
+      "ParentProcessId": 29316,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 29008,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 28188,
+      "ParentProcessId": 10988,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 27788,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 14236,
+      "ParentProcessId": 29008,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 2828,
+      "ParentProcessId": 27788,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 1404,
+      "ParentProcessId": 27788,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 11884,
+      "ParentProcessId": 29008,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 2484,
+      "ParentProcessId": 10988,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 196,
+      "ParentProcessId": 7836,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 2744,
+      "ParentProcessId": 7836,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 10124,
+      "ParentProcessId": 196,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 10348,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 28532,
+      "ParentProcessId": 2744,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 21712,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 28860,
+      "ParentProcessId": 10348,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 7756,
+      "ParentProcessId": 21712,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 3636,
+      "ParentProcessId": 10348,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 27244,
+      "ParentProcessId": 21712,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 10416,
+      "ParentProcessId": 2744,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 13196,
+      "ParentProcessId": 7836,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 8592,
+      "ParentProcessId": 7836,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 6580,
+      "ParentProcessId": 13196,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 5324,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 9124,
+      "ParentProcessId": 8592,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 29324,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 2692,
+      "ParentProcessId": 5324,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 28056,
+      "ParentProcessId": 29324,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 9708,
+      "ParentProcessId": 5324,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 15840,
+      "ParentProcessId": 29324,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 28504,
+      "ParentProcessId": 8592,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 8152,
+      "ParentProcessId": 7836,
+      "Name": "codex-code-mode-host.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\bin\\9614f1d9b40d9c4f\\codex-code-mode-host.exe"
+    },
+    {
+      "ProcessId": 29592,
+      "ParentProcessId": 8152,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 27364,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 25504,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 5572,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 28496,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 29040,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 7792,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    {
+      "ProcessId": 11860,
+      "ParentProcessId": 1888,
+      "Name": "smartscreen.exe",
+      "ExecutablePath": "C:\\Windows\\System32\\smartscreen.exe"
+    },
+    {
+      "ProcessId": 27840,
+      "ParentProcessId": 29300,
+      "Name": "Taskmgr.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 29032,
+      "ParentProcessId": 14508,
+      "Name": "perfmon.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 7876,
+      "ParentProcessId": 7836,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 28124,
+      "ParentProcessId": 7836,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 4640,
+      "ParentProcessId": 7876,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 21052,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 1828,
+      "ParentProcessId": 28124,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 988,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 12948,
+      "ParentProcessId": 21052,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 28240,
+      "ParentProcessId": 988,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 13500,
+      "ParentProcessId": 21052,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 24100,
+      "ParentProcessId": 988,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 6388,
+      "ParentProcessId": 28124,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 28992,
+      "ParentProcessId": 4220,
+      "Name": "audiodg.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 3112,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe"
+    },
+    {
+      "ProcessId": 8748,
+      "ParentProcessId": 7836,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 13656,
+      "ParentProcessId": 8748,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 16828,
+      "ParentProcessId": 7836,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 27360,
+      "ParentProcessId": 7836,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 23224,
+      "ParentProcessId": 16828,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 25380,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 25112,
+      "ParentProcessId": 27360,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 13568,
+      "ParentProcessId": 7836,
+      "Name": "cmd.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\cmd.exe"
+    },
+    {
+      "ProcessId": 3916,
+      "ParentProcessId": 25380,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 26120,
+      "ParentProcessId": 13568,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    },
+    {
+      "ProcessId": 11644,
+      "ParentProcessId": 25380,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 21904,
+      "ParentProcessId": 13568,
+      "Name": "node.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node.exe"
+    },
+    {
+      "ProcessId": 14852,
+      "ParentProcessId": 27360,
+      "Name": "node_repl.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a9ba6825a525118c\\bin\\node_repl.exe"
+    },
+    {
+      "ProcessId": 14728,
+      "ParentProcessId": 1656,
+      "Name": "svchost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 7160,
+      "ParentProcessId": 16152,
+      "Name": "SearchProtocolHost.exe",
+      "ExecutablePath": null
+    },
+    {
+      "ProcessId": 27464,
+      "ParentProcessId": 7836,
+      "Name": "pwsh.exe",
+      "ExecutablePath": "C:\\Users\\seala\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell\\pwsh.exe"
+    },
+    {
+      "ProcessId": 25816,
+      "ParentProcessId": 27464,
+      "Name": "conhost.exe",
+      "ExecutablePath": "C:\\WINDOWS\\system32\\conhost.exe"
+    }
+  ],
+  "Services": [
+    {
+      "Name": "AmneziaVPN-service",
+      "DisplayName": "AmneziaVPN-service",
+      "ProcessId": 5056,
+      "PathName": "C:\\\\Program Files\\AmneziaVPN\\AmneziaVPN-service.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Appinfo",
+      "DisplayName": "Application Information",
+      "ProcessId": 12048,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "AppXSvc",
+      "DisplayName": "AppX Deployment Service (AppXSVC)",
+      "ProcessId": 28476,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k wsappx -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "AudioEndpointBuilder",
+      "DisplayName": "Windows Audio Endpoint Builder",
+      "ProcessId": 4076,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Audiosrv",
+      "DisplayName": "Windows Audio",
+      "ProcessId": 4220,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "BFE",
+      "DisplayName": "Base Filtering Engine",
+      "ProcessId": 3864,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "BrokerInfrastructure",
+      "DisplayName": "Background Tasks Infrastructure Service",
+      "ProcessId": 1888,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "BTAGService",
+      "DisplayName": "Bluetooth Audio Gateway Service",
+      "ProcessId": 2300,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "BthAvctpSvc",
+      "DisplayName": "AVCTP service",
+      "ProcessId": 2276,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceRedirectionGuard -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "bthserv",
+      "DisplayName": "Bluetooth Support Service",
+      "ProcessId": 2284,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "camsvc",
+      "DisplayName": "Capability Access Manager Service",
+      "ProcessId": 9064,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k osprivacy -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "CDPSvc",
+      "DisplayName": "Connected Devices Platform Service",
+      "ProcessId": 11548,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "CertPropSvc",
+      "DisplayName": "Certificate Propagation",
+      "ProcessId": 4888,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "CodexSandboxService.OpenAI.Codex",
+      "DisplayName": "ChatGPT",
+      "ProcessId": 8628,
+      "PathName": "\"C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\resources\\codex-windows-sandbox-service.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "com.docker.service",
+      "DisplayName": "Docker Desktop Service",
+      "ProcessId": 6124,
+      "PathName": "\"C:\\Program Files\\Docker\\Docker\\com.docker.service\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "CoreMessagingRegistrar",
+      "DisplayName": "CoreMessaging",
+      "ProcessId": 2268,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetwork -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "CryptSvc",
+      "DisplayName": "Cryptographic Services",
+      "ProcessId": 4128,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DcomLaunch",
+      "DisplayName": "DCOM Server Process Launcher",
+      "ProcessId": 1888,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DeviceAssociationService",
+      "DisplayName": "Device Association Service",
+      "ProcessId": 3220,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "DeviceInstall",
+      "DisplayName": "Device Install Service",
+      "ProcessId": 9656,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "DevQueryBroker",
+      "DisplayName": "DevQuery Background Discovery Broker",
+      "ProcessId": 3228,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "Dhcp",
+      "DisplayName": "DHCP Client",
+      "ProcessId": 3496,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DiagTrack",
+      "DisplayName": "Connected User Experiences and Telemetry",
+      "ProcessId": 5008,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k utcsvc -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DispBrokerDesktopSvc",
+      "DisplayName": "Display Policy Service",
+      "ProcessId": 5048,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Dnscache",
+      "DisplayName": "DNS Client",
+      "ProcessId": 3172,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DoSvc",
+      "DisplayName": "Delivery Optimization",
+      "ProcessId": 25820,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DPS",
+      "DisplayName": "Diagnostic Policy Service",
+      "ProcessId": 5040,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DusmSvc",
+      "DisplayName": "Data Usage",
+      "ProcessId": 4488,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "EventLog",
+      "DisplayName": "Windows Event Log",
+      "ProcessId": 3784,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "EventSystem",
+      "DisplayName": "COM+ Event System",
+      "ProcessId": 3804,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceRedirectionGuard -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Everything",
+      "DisplayName": "Everything",
+      "ProcessId": 5072,
+      "PathName": "\"C:\\Program Files\\Everything\\Everything.exe\" -svc",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "FontCache",
+      "DisplayName": "Windows Font Cache Service",
+      "ProcessId": 4092,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "GameInputRedistService",
+      "DisplayName": "GameInput Redist Service",
+      "ProcessId": 5064,
+      "PathName": "\"C:\\Program Files\\Microsoft GameInput\\x64\\GameInputRedistService.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "GameInputSvc",
+      "DisplayName": "GameInput Service",
+      "ProcessId": 10352,
+      "PathName": "C:\\WINDOWS\\System32\\GameInputSvc.exe",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "GamingServices",
+      "DisplayName": "Gaming Services",
+      "ProcessId": 8616,
+      "PathName": "\"C:\\Program Files\\WindowsApps\\Microsoft.GamingServices_38.118.9001.0_x64__8wekyb3d8bbwe\\GamingServices.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "GamingServicesNet",
+      "DisplayName": "Gaming Services",
+      "ProcessId": 8632,
+      "PathName": "\"C:\\Program Files\\WindowsApps\\Microsoft.GamingServices_38.118.9001.0_x64__8wekyb3d8bbwe\\GamingServicesNet.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "gpsvc",
+      "DisplayName": "Group Policy Client",
+      "ProcessId": 14728,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k GPSvcGroup",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "hidserv",
+      "DisplayName": "Human Interface Device Service",
+      "ProcessId": 2784,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "HNS",
+      "DisplayName": "Host Network Service",
+      "ProcessId": 3560,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k NetSvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "HvHost",
+      "DisplayName": "HV Host Service",
+      "ProcessId": 2144,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "InstallService",
+      "DisplayName": "Microsoft Store Install Service",
+      "ProcessId": 10144,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "InventorySvc",
+      "DisplayName": "Inventory and Compatibility Appraisal service",
+      "ProcessId": 25172,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k InvSvcGroup -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "iphlpsvc",
+      "DisplayName": "IP Helper",
+      "ProcessId": 5152,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k NetSvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "jhi_service",
+      "DisplayName": "Intel(R) Dynamic Application Loader Host Interface Service",
+      "ProcessId": 5112,
+      "PathName": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_af50fdb80983f7bc\\jhi_service.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "KeyIso",
+      "DisplayName": "CNG Key Isolation",
+      "ProcessId": 1684,
+      "PathName": "C:\\WINDOWS\\system32\\lsass.exe",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "LanmanServer",
+      "DisplayName": "Server",
+      "ProcessId": 5608,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "LanmanWorkstation",
+      "DisplayName": "Workstation",
+      "ProcessId": 4848,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "lfsvc",
+      "DisplayName": "Geolocation Service",
+      "ProcessId": 9776,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcsRedirectionGuard -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "LicenseManager",
+      "DisplayName": "Windows License Manager Service",
+      "ProcessId": 11556,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "lmhosts",
+      "DisplayName": "TCP/IP NetBIOS Helper",
+      "ProcessId": 2292,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "LSM",
+      "DisplayName": "LSM",
+      "ProcessId": 1392,
+      "PathName": null,
+      "StartMode": "Unknown"
+    },
+    {
+      "Name": "MDCoreSvc",
+      "DisplayName": "Microsoft Defender Core Service",
+      "ProcessId": 5160,
+      "PathName": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26090.9-0\\MpDefenderCoreService.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "mpssvc",
+      "DisplayName": "Windows Defender Firewall",
+      "ProcessId": 3864,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "NcbService",
+      "DisplayName": "Network Connection Broker",
+      "ProcessId": 2536,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "netprofm",
+      "DisplayName": "Network List Service",
+      "ProcessId": 2552,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netprofm -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "NetSetupSvc",
+      "DisplayName": "NetSetupSvc",
+      "ProcessId": 26976,
+      "PathName": null,
+      "StartMode": "Unknown"
+    },
+    {
+      "Name": "NgcCtnrSvc",
+      "DisplayName": "Microsoft Passport Container",
+      "ProcessId": 8708,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "NgcSvc",
+      "DisplayName": "Microsoft Passport",
+      "ProcessId": 2816,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "nsi",
+      "DisplayName": "Network Store Interface Service",
+      "ProcessId": 2448,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "nvagent",
+      "DisplayName": "Network Virtualization Service",
+      "ProcessId": 3712,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k NetSvcs",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "NvContainerLocalSystem",
+      "DisplayName": "NVIDIA LocalSystem Container",
+      "ProcessId": 5088,
+      "PathName": "\"C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe\" -s NvContainerLocalSystem -a -f \"C:\\ProgramData\\NVIDIA Corporation\\NVIDIA app\\NvContainer\\NvContainerLocalSystem.log\" -l 3 -d \"C:\\Program Files\\NVIDIA Corporation\\NvContainer\\plugins\\LocalSystem\" -r -p 30000  -ert",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "NVDisplay.ContainerLocalSystem",
+      "DisplayName": "NVIDIA Display Container LS",
+      "ProcessId": 3656,
+      "PathName": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_0373d825005116d0\\Display.NvContainer\\NVDisplay.Container.exe -arg <ExeDir>\\arguments.txt",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "PcaSvc",
+      "DisplayName": "Program Compatibility Assistant Service",
+      "ProcessId": 10048,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "PhoneSvc",
+      "DisplayName": "Phone Service",
+      "ProcessId": 4196,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "PlugPlay",
+      "DisplayName": "Plug and Play",
+      "ProcessId": 1888,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "Power",
+      "DisplayName": "Power",
+      "ProcessId": 1888,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "ProfSvc",
+      "DisplayName": "User Profile Service",
+      "ProcessId": 2528,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k UserProfileService -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "QWAVE",
+      "DisplayName": "Quality Windows Audio Video Experience",
+      "ProcessId": 27060,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "RasMan",
+      "DisplayName": "Remote Access Connection Manager",
+      "ProcessId": 5796,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "RmSvc",
+      "DisplayName": "Radio Management Service",
+      "ProcessId": 8480,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "RpcEptMapper",
+      "DisplayName": "RPC Endpoint Mapper",
+      "ProcessId": 2012,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k RPCSS -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "RpcSs",
+      "DisplayName": "Remote Procedure Call (RPC)",
+      "ProcessId": 2012,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k rpcss -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "RstMwService",
+      "DisplayName": "Intel(R) Storage Middleware Service",
+      "ProcessId": 4248,
+      "PathName": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\iastorvd.inf_amd64_f28d27d12c1c64c5\\RstMwService.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SamSs",
+      "DisplayName": "Security Accounts Manager",
+      "ProcessId": 1684,
+      "PathName": "C:\\WINDOWS\\system32\\lsass.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Schedule",
+      "DisplayName": "Task Scheduler",
+      "ProcessId": 2456,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SecurityHealthService",
+      "DisplayName": "Windows Security Service",
+      "ProcessId": 16608,
+      "PathName": "C:\\WINDOWS\\system32\\SecurityHealthService.exe",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "SENS",
+      "DisplayName": "System Event Notification Service",
+      "ProcessId": 3972,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcsRedirectionGuard -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SessionEnv",
+      "DisplayName": "Remote Desktop Configuration",
+      "ProcessId": 8844,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "SharedAccess",
+      "DisplayName": "Internet Connection Sharing (ICS)",
+      "ProcessId": 4340,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "ShellHWDetection",
+      "DisplayName": "Shell Hardware Detection",
+      "ProcessId": 4568,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SLPluginSvc",
+      "DisplayName": "Streamlabs Plugin Service",
+      "ProcessId": 5104,
+      "PathName": "C:\\Program Files (x86)\\StreamlabsPluginUpdater\\sl-browser-service.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Spooler",
+      "DisplayName": "Print Spooler",
+      "ProcessId": 4728,
+      "PathName": "C:\\WINDOWS\\System32\\spoolsv.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SSDPSRV",
+      "DisplayName": "SSDP Discovery",
+      "ProcessId": 15440,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceAndNoImpersonationRedirectionGuard -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "SstpSvc",
+      "DisplayName": "Secure Socket Tunneling Protocol Service",
+      "ProcessId": 5080,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "StateRepository",
+      "DisplayName": "State Repository Service",
+      "ProcessId": 2136,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k appmodel -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Steam Client Service",
+      "DisplayName": "Steam Client Service",
+      "ProcessId": 17264,
+      "PathName": "\"C:\\Program Files (x86)\\Common Files\\Steam\\steamservice.exe\" /RunAsService",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "StorSvc",
+      "DisplayName": "Storage Service",
+      "ProcessId": 10128,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SysMain",
+      "DisplayName": "SysMain",
+      "ProcessId": 3884,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "SystemEventsBroker",
+      "DisplayName": "System Events Broker",
+      "ProcessId": 1888,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "TermService",
+      "DisplayName": "Remote Desktop Services",
+      "ProcessId": 9072,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "TextInputManagementService",
+      "DisplayName": "Text Input Management Service",
+      "ProcessId": 4404,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Themes",
+      "DisplayName": "Themes",
+      "ProcessId": 3876,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "TimeBrokerSvc",
+      "DisplayName": "Time Broker",
+      "ProcessId": 2544,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "TokenBroker",
+      "DisplayName": "Web Account Manager",
+      "ProcessId": 10552,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "TrkWks",
+      "DisplayName": "Distributed Link Tracking Client",
+      "ProcessId": 5096,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "UmRdpService",
+      "DisplayName": "Remote Desktop Services UserMode Port Redirector",
+      "ProcessId": 8892,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "UserManager",
+      "DisplayName": "User Manager",
+      "ProcessId": 2728,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "UsoSvc",
+      "DisplayName": "Update Orchestrator Service",
+      "ProcessId": 2844,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "VaultSvc",
+      "DisplayName": "Credential Manager",
+      "ProcessId": 1684,
+      "PathName": "C:\\WINDOWS\\system32\\lsass.exe",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "vmcompute",
+      "DisplayName": "Hyper-V Host Compute Service",
+      "ProcessId": 5940,
+      "PathName": "C:\\WINDOWS\\system32\\vmcompute.exe",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "vmms",
+      "DisplayName": "Hyper-V Virtual Machine Management",
+      "ProcessId": 3340,
+      "PathName": "C:\\WINDOWS\\system32\\vmms.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Wcmsvc",
+      "DisplayName": "Windows Connection Manager",
+      "ProcessId": 4496,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s Wcmsvc",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WdNisSvc",
+      "DisplayName": "Microsoft Defender Antivirus Network Inspection Service",
+      "ProcessId": 10808,
+      "PathName": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26090.9-0\\NisSrv.exe\"",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "webthreatdefsvc",
+      "DisplayName": "Web Threat Defense Service",
+      "ProcessId": 16816,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k WebThreatDefense -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "whesvc",
+      "DisplayName": "Windows Health and Optimized Experiences",
+      "ProcessId": 17044,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k whesvc -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WinDefend",
+      "DisplayName": "Microsoft Defender Antivirus Service",
+      "ProcessId": 5124,
+      "PathName": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26090.9-0\\MsMpEng.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "Windhawk",
+      "DisplayName": "Windhawk",
+      "ProcessId": 4392,
+      "PathName": "\"C:\\Program Files\\Windhawk\\windhawk.exe\" -service",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WinHttpAutoProxySvc",
+      "DisplayName": "WinHTTP Web Proxy Auto-Discovery Service",
+      "ProcessId": 3616,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceHttp -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "Winmgmt",
+      "DisplayName": "Windows Management Instrumentation",
+      "ProcessId": 3212,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WMIRegistrationService",
+      "DisplayName": "Intel(R) Management Engine WMI Provider Registration",
+      "ProcessId": 4780,
+      "PathName": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d51901c26227fb29\\WMIRegistrationService.exe",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WpnService",
+      "DisplayName": "Windows Push Notifications System Service",
+      "ProcessId": 3856,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WSAIFabricSvc",
+      "DisplayName": "Windows AI Components Host",
+      "ProcessId": 8568,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k WSAIFabricSvcGroup -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "wscsvc",
+      "DisplayName": "Security Center",
+      "ProcessId": 16372,
+      "PathName": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WSearch",
+      "DisplayName": "Windows Search",
+      "ProcessId": 16152,
+      "PathName": "C:\\WINDOWS\\system32\\SearchIndexer.exe /Embedding",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WSLService",
+      "DisplayName": "WSL Service",
+      "ProcessId": 5168,
+      "PathName": "\"C:\\Program Files\\WSL\\wslservice.exe\"",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "wuauserv",
+      "DisplayName": "Windows Update",
+      "ProcessId": 5572,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "XblAuthManager",
+      "DisplayName": "Xbox Live Auth Manager",
+      "ProcessId": 26704,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcsRedirectionGuard -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "cbdhsvc_1322fc",
+      "DisplayName": "Clipboard User Service_1322fc",
+      "ProcessId": 2996,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k ClipboardSvcGroup -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "CDPUserSvc_1322fc",
+      "DisplayName": "Connected Devices Platform User Service_1322fc",
+      "ProcessId": 7736,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "DevicesFlowUserSvc_1322fc",
+      "DisplayName": "DevicesFlow_1322fc",
+      "ProcessId": 21704,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k DevicesFlow",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "NPSMSvc_1322fc",
+      "DisplayName": "Now Playing Session Manager Service_1322fc",
+      "ProcessId": 19376,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "UdkUserSvc_1322fc",
+      "DisplayName": "Udk User Service_1322fc",
+      "ProcessId": 9844,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k UdkSvcGroup",
+      "StartMode": "Manual"
+    },
+    {
+      "Name": "webthreatdefusersvc_1322fc",
+      "DisplayName": "Web Threat Defense User Service_1322fc",
+      "ProcessId": 6384,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "WpnUserService_1322fc",
+      "DisplayName": "Windows Push Notifications User Service_1322fc",
+      "ProcessId": 7548,
+      "PathName": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup",
+      "StartMode": "Auto"
+    },
+    {
+      "Name": "RustDesk",
+      "DisplayName": "RustDesk Service",
+      "ProcessId": 5236,
+      "PathName": "\"C:\\Program Files\\RustDesk\\RustDesk.exe\" --service",
+      "StartMode": "Auto"
+    }
+  ],
+  "NetworkProfiles": [
+    {
+      "Name": "Network 3",
+      "InterfaceAlias": "Ethernet",
+      "NetworkCategory": 0,
+      "IPv4Connectivity": 4,
+      "IPv6Connectivity": 4
+    }
+  ],
+  "Firewall": [
+    {
+      "Name": "Domain",
+      "Enabled": 1,
+      "DefaultInboundAction": 4,
+      "DefaultOutboundAction": 2,
+      "LogAllowed": 0,
+      "LogBlocked": 0,
+      "LogFileName": "%systemroot%\\system32\\LogFiles\\Firewall\\pfirewall.log"
+    },
+    {
+      "Name": "Private",
+      "Enabled": 1,
+      "DefaultInboundAction": 4,
+      "DefaultOutboundAction": 2,
+      "LogAllowed": 0,
+      "LogBlocked": 0,
+      "LogFileName": "%systemroot%\\system32\\LogFiles\\Firewall\\pfirewall.log"
+    },
+    {
+      "Name": "Public",
+      "Enabled": 1,
+      "DefaultInboundAction": 4,
+      "DefaultOutboundAction": 2,
+      "LogAllowed": 0,
+      "LogBlocked": 0,
+      "LogFileName": "%systemroot%\\system32\\LogFiles\\Firewall\\pfirewall.log"
+    }
+  ],
+  "Defender": {
+    "AntivirusEnabled": true,
+    "RealTimeProtectionEnabled": true,
+    "AntivirusSignatureLastUpdated": "2026-10-15T00:16:48+03:00",
+    "QuickScanEndTime": "2026-10-10T21:26:05.225+03:00",
+    "FullScanEndTime": "2026-09-01T18:43:11.983+03:00"
+  },
+  "DefenderDetections": [
+    {
+      "ThreatID": 242420,
+      "InitialDetectionTime": "2026-09-01T18:43:00.856+03:00",
+      "LastThreatStatusChangeTime": "2026-09-02T06:26:30.539+03:00",
+      "ActionSuccess": true,
+      "Resources": [
+        "containerfile:_D:\\LinuxImages\\kali-linux-2021.2-installer-amd64.iso",
+        "containerfile:_D:\\LinuxImages\\kali-linux-2022.1-installer-amd64.iso",
+        "file:_D:\\LinuxImages\\kali-linux-2021.2-installer-amd64.iso->pool\\main\\d\\dbd\\dbd_1.50-1kali6_amd64.deb",
+        "file:_D:\\LinuxImages\\kali-linux-2021.2-installer-amd64.iso->pool\\main\\m\\metasploit-framework\\metasploit-framework_6.0.45-0kali1_amd64.deb->data.tar.xz->(xz)->./usr/share/metasploit-framework/data/templates/template_x86_windows_dccw_gdiplus.dll",
+        "file:_D:\\LinuxImages\\kali-linux-2022.1-installer-amd64.iso->pool\\main\\d\\dbd\\dbd_1.50-1kali6_amd64.deb"
+      ]
+    },
+    {
+      "ThreatID": 242420,
+      "InitialDetectionTime": "2026-09-02T20:27:01.245+03:00",
+      "LastThreatStatusChangeTime": "2026-09-03T05:52:33.902+03:00",
+      "ActionSuccess": true,
+      "Resources": [
+        "containerfile:_D:\\LinuxImages\\kali-linux-2021.2-installer-amd64.iso",
+        "file:_D:\\LinuxImages\\kali-linux-2021.2-installer-amd64.iso->pool\\main\\d\\dbd\\dbd_1.50-1kali6_amd64.deb",
+        "file:_D:\\LinuxImages\\kali-linux-2021.2-installer-amd64.iso->pool\\main\\m\\metasploit-framework\\metasploit-framework_6.0.45-0kali1_amd64.deb->data.tar.xz->(xz)->./usr/share/metasploit-framework/data/templates/template_x86_windows_dccw_gdiplus.dll"
+      ]
+    }
+  ]
+}

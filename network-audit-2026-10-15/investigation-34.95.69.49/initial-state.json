@@ -1,0 +1,442 @@
+{
+  "CapturedAt": "2026-10-15T11:57:54.1317796+03:00",
+  "Administrator": false,
+  "TargetConnections": [
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 52881,
+      "RemoteAddress": "34.95.69.49",
+      "RemotePort": 443,
+      "State": "Established",
+      "OwningProcess": 20444,
+      "CreationTime": "2026-10-15T11:51:33+03:00"
+    }
+  ],
+  "DNSMatches": [],
+  "RelevantProcesses": [
+    {
+      "ProcessId": 17092,
+      "ParentProcessId": 17032,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T06:07:56.865597+03:00"
+    },
+    {
+      "ProcessId": 17184,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T06:07:56.948303+03:00"
+    },
+    {
+      "ProcessId": 10972,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T06:07:57.177133+03:00"
+    },
+    {
+      "ProcessId": 17316,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T06:07:57.423781+03:00"
+    },
+    {
+      "ProcessId": 16560,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T06:07:57.483791+03:00"
+    },
+    {
+      "ProcessId": 16724,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T06:07:57.677357+03:00"
+    },
+    {
+      "ProcessId": 19668,
+      "ParentProcessId": 20392,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+      "CreationDate": "2026-10-15T06:08:08.365692+03:00"
+    },
+    {
+      "ProcessId": 20172,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+      "CreationDate": "2026-10-15T06:08:09.213587+03:00"
+    },
+    {
+      "ProcessId": 19460,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+      "CreationDate": "2026-10-15T06:08:09.325514+03:00"
+    },
+    {
+      "ProcessId": 20444,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+      "CreationDate": "2026-10-15T06:08:09.336236+03:00"
+    },
+    {
+      "ProcessId": 21384,
+      "ParentProcessId": 11604,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe",
+      "CreationDate": "2026-10-15T06:08:13.350485+03:00"
+    },
+    {
+      "ProcessId": 20640,
+      "ParentProcessId": 11604,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.231648+03:00"
+    },
+    {
+      "ProcessId": 20580,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.310908+03:00"
+    },
+    {
+      "ProcessId": 20160,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe",
+      "CreationDate": "2026-10-15T06:08:14.398161+03:00"
+    },
+    {
+      "ProcessId": 20916,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.448486+03:00"
+    },
+    {
+      "ProcessId": 20932,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.453355+03:00"
+    },
+    {
+      "ProcessId": 20140,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.493781+03:00"
+    },
+    {
+      "ProcessId": 20972,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.525465+03:00"
+    },
+    {
+      "ProcessId": 21072,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.527884+03:00"
+    },
+    {
+      "ProcessId": 21140,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe",
+      "CreationDate": "2026-10-15T06:08:14.535878+03:00"
+    },
+    {
+      "ProcessId": 19440,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe",
+      "CreationDate": "2026-10-15T06:08:14.557564+03:00"
+    },
+    {
+      "ProcessId": 20784,
+      "ParentProcessId": 21384,
+      "Name": "Beeper.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe",
+      "CreationDate": "2026-10-15T06:08:14.601337+03:00"
+    },
+    {
+      "ProcessId": 21672,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:14.688334+03:00"
+    },
+    {
+      "ProcessId": 24320,
+      "ParentProcessId": 7360,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:30.058616+03:00"
+    },
+    {
+      "ProcessId": 14356,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:30.15848+03:00"
+    },
+    {
+      "ProcessId": 8716,
+      "ParentProcessId": 14356,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:30.179146+03:00"
+    },
+    {
+      "ProcessId": 4796,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:30.57763+03:00"
+    },
+    {
+      "ProcessId": 3828,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:30.584186+03:00"
+    },
+    {
+      "ProcessId": 22288,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:30.628249+03:00"
+    },
+    {
+      "ProcessId": 23544,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:32.618457+03:00"
+    },
+    {
+      "ProcessId": 24392,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:32.663359+03:00"
+    },
+    {
+      "ProcessId": 24332,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:36.296547+03:00"
+    },
+    {
+      "ProcessId": 2168,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:36.296557+03:00"
+    },
+    {
+      "ProcessId": 7836,
+      "ParentProcessId": 24320,
+      "Name": "codex.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\bin\\9614f1d9b40d9c4f\\codex.exe",
+      "CreationDate": "2026-10-15T06:08:36.60477+03:00"
+    },
+    {
+      "ProcessId": 24824,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:37.842223+03:00"
+    },
+    {
+      "ProcessId": 26044,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:41.99186+03:00"
+    },
+    {
+      "ProcessId": 26304,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:42.078897+03:00"
+    },
+    {
+      "ProcessId": 25824,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:42.345085+03:00"
+    },
+    {
+      "ProcessId": 25832,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:08:42.345127+03:00"
+    },
+    {
+      "ProcessId": 26676,
+      "ParentProcessId": 24320,
+      "Name": "codex.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\bin\\9614f1d9b40d9c4f\\codex.exe",
+      "CreationDate": "2026-10-15T06:08:47.927558+03:00"
+    },
+    {
+      "ProcessId": 6584,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:51.16476+03:00"
+    },
+    {
+      "ProcessId": 11620,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:08:53.159265+03:00"
+    },
+    {
+      "ProcessId": 27236,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:09:00.851637+03:00"
+    },
+    {
+      "ProcessId": 25508,
+      "ParentProcessId": 24320,
+      "Name": "ChatGPT.exe",
+      "ExecutablePath": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "CreationDate": "2026-10-15T06:09:01.070129+03:00"
+    },
+    {
+      "ProcessId": 25840,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T06:12:59.873156+03:00"
+    },
+    {
+      "ProcessId": 3540,
+      "ParentProcessId": 11604,
+      "Name": "Telegram.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe",
+      "CreationDate": "2026-10-15T06:39:39.262001+03:00"
+    },
+    {
+      "ProcessId": 28648,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T10:08:16.053405+03:00"
+    },
+    {
+      "ProcessId": 11944,
+      "ParentProcessId": 22976,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "CreationDate": "2026-10-15T10:08:18.206185+03:00"
+    },
+    {
+      "ProcessId": 10164,
+      "ParentProcessId": 11944,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "CreationDate": "2026-10-15T10:08:18.256237+03:00"
+    },
+    {
+      "ProcessId": 23556,
+      "ParentProcessId": 11944,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "CreationDate": "2026-10-15T10:08:18.309144+03:00"
+    },
+    {
+      "ProcessId": 23636,
+      "ParentProcessId": 11944,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "CreationDate": "2026-10-15T10:08:18.311146+03:00"
+    },
+    {
+      "ProcessId": 512,
+      "ParentProcessId": 11944,
+      "Name": "msedge.exe",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "CreationDate": "2026-10-15T10:08:18.347798+03:00"
+    },
+    {
+      "ProcessId": 11440,
+      "ParentProcessId": 20640,
+      "Name": "brave.exe",
+      "ExecutablePath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "CreationDate": "2026-10-15T11:34:12.353375+03:00"
+    },
+    {
+      "ProcessId": 18100,
+      "ParentProcessId": 19668,
+      "Name": "Blitz.exe",
+      "ExecutablePath": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+      "CreationDate": "2026-10-15T11:51:31.371847+03:00"
+    },
+    {
+      "ProcessId": 10900,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T11:51:58.285901+03:00"
+    },
+    {
+      "ProcessId": 15740,
+      "ParentProcessId": 17092,
+      "Name": "steamwebhelper.exe",
+      "ExecutablePath": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "CreationDate": "2026-10-15T11:52:31.48489+03:00"
+    }
+  ],
+  "LogAvailability": [
+    {
+      "LogName": "Microsoft-Windows-Sysmon/Operational",
+      "Error": "There is not an event log on the localhost computer that matches \"Microsoft-Windows-Sysmon/Operational\"."
+    },
+    {
+      "LogName": "Microsoft-Windows-DNS-Client/Operational",
+      "IsEnabled": false,
+      "RecordCount": null,
+      "FileSize": null,
+      "LastWriteTime": null
+    },
+    {
+      "LogName": "Microsoft-Windows-Windows Firewall With Advanced Security/Firewall",
+      "IsEnabled": true,
+      "RecordCount": 934,
+      "FileSize": 1052672,
+      "LastWriteTime": "2026-10-15T11:57:51.757155+03:00"
+    },
+    {
+      "LogName": "Microsoft-Windows-Windows Defender/Operational",
+      "IsEnabled": true,
+      "RecordCount": 15017,
+      "FileSize": 16781312,
+      "LastWriteTime": "2026-10-15T11:14:55.1215234+03:00"
+    },
+    {
+      "LogName": "Security",
+      "Error": "To access the 'Security' log start PowerShell with elevated user rights.  Error: Attempted to perform an unauthorized operation."
+    }
+  ],
+  "FirewallLogFiles": []
+}

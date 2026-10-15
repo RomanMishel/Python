@@ -1,0 +1,272 @@
+{
+  "Checks": [
+    {
+      "IP": "13.224.245.88",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "13.229.47.174",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "131.153.232.252",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "146.75.122.214",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "149.154.167.41",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "149.154.167.91",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "149.154.167.92",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "155.133.229.4",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "167.233.8.106",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "169.150.202.210",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2001:67c:2e8:22::c100:696",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "213.57.94.219",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2400:52e0:1e03::1486:1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2600:1901:0:5e8a::",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2600:1901:0:85c5::",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2600:9000:21b3:5a00:19:b6f1:d180:93a1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2600:9000:2837:7400:1b:cadc:ef40:93a1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2603:1020:805:3::402",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2603:1046:c12:1400::2",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2603:1046:c12:c00::2",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2603:1063:2001:3200::365:ff1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2603:1063:2001:3201::365:ff1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2603:1063:2001:3203::365:ff1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700::6812:e1d",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700::6812:f1d",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:10::6814:1b19",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:10::ac42:a08b",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:20::ac43:4969",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:3030::ac43:a869",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:4403::ac40:94eb",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:4409::ac40:961c",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2606:4700:440b::6812:2715",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2607:5300:60:4fc1::",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:1450:4001:c21::bc",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:1450:400c:c0a::bc",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:1450:4028:806::2003",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:a040:0:186::21cc",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:a040:0:197::21cc",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:a040:0:6::4d89:b21b",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:a040:0:6::4d89:b23b",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a00:a040:3:2::162",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a01:4f8:1c1d:1014::1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a01:4f8:c01e:413::1",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a03:2880:f319:120:face:b00c:0:167",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a03:2880:f319:186:face:b00c:0:1cc9",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a03:2880:f319:91:face:b00c:0:6206",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a04:4e42:8e::300",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "2a06:98c1:3101::6812:202f",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "32.184.75.39",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "34.95.69.49",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "44.241.83.144",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "49.13.42.238",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    },
+    {
+      "IP": "57.144.62.145",
+      "SpamhausMatches": [],
+      "FeodoMatch": false
+    }
+  ],
+  "SpamhausIPv4Networks": 1682,
+  "SpamhausIPv6Networks": 91,
+  "FeodoEntries": 5
+}

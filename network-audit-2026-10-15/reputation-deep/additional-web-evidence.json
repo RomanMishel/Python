@@ -1,0 +1,34 @@
+{
+  "AbuseIPDBHistoricalCopy": {
+    "IP": "34.95.69.49",
+    "Source": "https://www.abuseipdb.com/check/34.95.69.49",
+    "Reports": 25,
+    "DistinctSources": 7,
+    "DisplayedConfidenceOfAbuse": 8,
+    "LatestVisibleAbsoluteTimestampUTC": "2026-03-31T13:27:10Z",
+    "Categories": [
+      "Port Scan",
+      "Hacking",
+      "Brute-Force",
+      "SSH"
+    ],
+    "Caveat": "Read through indexed web copy. Direct request returned HTTP 403. Current live count/score not confirmed. Relative dates in the copy are stale; use absolute dates. Score is not infection probability."
+  },
+  "PublicContext": [
+    {
+      "IP": "131.153.232.252",
+      "Source": "https://urlscan.io/ip/131.153.232.252",
+      "Observation": "Historic observed aditude.cloud hostnames; not a phishing verdict and not proof of the local connection hostname"
+    },
+    {
+      "IP": "169.150.202.210",
+      "Source": "https://urlscan.io/result/0197cf62-6a41-76ef-be2e-26c9b24529f9/",
+      "Observation": "Historic scan of edgezone-isr.bunnyinfra.net, no classification; not a current clean verdict"
+    },
+    {
+      "IP": "34.95.69.49",
+      "Source": "https://urlscan.io/ip/34.95.69.49",
+      "Observation": "Shared infrastructure context; the local connection's hostname and program remain unknown"
+    }
+  ]
+}

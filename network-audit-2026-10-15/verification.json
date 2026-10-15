@@ -1,0 +1,221 @@
+{
+  "DefenderThreats": [
+    {
+      "ThreatID": 242420,
+      "ThreatName": "PUA:Win32/Presenoker",
+      "IsActive": false,
+      "DidThreatExecute": false,
+      "SeverityID": 1
+    }
+  ],
+  "RdpEvents": [
+    {
+      "Log": "Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational",
+      "Error": "No events were found that match the specified selection criteria."
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-15T06:07:49.0905106+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-14T06:15:23.7234463+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-13T06:12:55.9973966+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-12T06:08:45.0154675+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-11T06:13:08.1306031+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-10T07:11:00.9038814+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-10T07:07:05.7413318+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 2\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-10T07:05:38.2195479+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    },
+    {
+      "Log": "Microsoft-Windows-TerminalServices-LocalSessionManager/Operational",
+      "Time": "2026-10-09T06:25:49.8549888+03:00",
+      "Id": 21,
+      "Message": "Remote Desktop Services: Session logon succeeded:\r\n\r\nUser: SEALAESONE\\seala\r\nSession ID: 1\r\nSource Network Address: LOCAL"
+    }
+  ],
+  "CriticalFirewallRules": [
+    {
+      "Name": "{F5E1519D-9E88-4C78-8E31-5DE2A8F06F85}",
+      "DisplayName": "RustDesk Service",
+      "Action": "Allow",
+      "Profile": "Any",
+      "Program": "C:\\Program Files\\RustDesk\\RustDesk.exe",
+      "Package": null,
+      "LocalPort": "Any",
+      "Protocol": "Any",
+      "LocalAddress": "Any",
+      "RemoteAddress": "Any",
+      "InterfaceType": 0,
+      "InterfaceAlias": "Any"
+    },
+    {
+      "Name": "RemoteDesktop-UserMode-In-TCP",
+      "DisplayName": "Remote Desktop - User Mode (TCP-In)",
+      "Action": "Allow",
+      "Profile": "Any",
+      "Program": "C:\\WINDOWS\\system32\\svchost.exe",
+      "Package": null,
+      "LocalPort": "3389",
+      "Protocol": "TCP",
+      "LocalAddress": "Any",
+      "RemoteAddress": "Any",
+      "InterfaceType": 0,
+      "InterfaceAlias": "Any"
+    },
+    {
+      "Name": "RemoteDesktop-UserMode-In-UDP",
+      "DisplayName": "Remote Desktop - User Mode (UDP-In)",
+      "Action": "Allow",
+      "Profile": "Any",
+      "Program": "C:\\WINDOWS\\system32\\svchost.exe",
+      "Package": null,
+      "LocalPort": "3389",
+      "Protocol": "UDP",
+      "LocalAddress": "Any",
+      "RemoteAddress": "Any",
+      "InterfaceType": 0,
+      "InterfaceAlias": "Any"
+    },
+    {
+      "Name": "RemoteDesktop-Shadow-In-TCP",
+      "DisplayName": "Remote Desktop - Shadow (TCP-In)",
+      "Action": "Allow",
+      "Profile": "Any",
+      "Program": "C:\\WINDOWS\\system32\\RdpSa.exe",
+      "Package": null,
+      "LocalPort": "Any",
+      "Protocol": "TCP",
+      "LocalAddress": "Any",
+      "RemoteAddress": "Any",
+      "InterfaceType": 0,
+      "InterfaceAlias": "Any"
+    }
+  ],
+  "NetworkSignatures": [
+    {
+      "Path": "C:\\Games\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe",
+      "Status": "Valid",
+      "Signer": "CN=Valve Corp., O=Valve Corp., L=Bellevue, S=Washington, C=US"
+    },
+    {
+      "Path": "C:\\Games\\Steam\\steam.exe",
+      "Status": "Valid",
+      "Signer": "CN=Valve Corp., O=Valve Corp., L=Bellevue, S=Washington, C=US"
+    },
+    {
+      "Path": "C:\\Games\\Steam\\steamapps\\common\\wallpaper_engine\\bin\\webwallpaper64.exe",
+      "Status": "Valid",
+      "Signer": "CN=Skutta Software GmbH, O=Skutta Software GmbH, L=Leverkusen, S=Nordrhein-Westfalen, C=DE, SERIALNUMBER=HRB 110119, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.1=Köln, OID.1.3.6.1.4.1.311.60.2.1.2=Nordrhein-Westfalen, OID.1.3.6.1.4.1.311.60.2.1.3=DE"
+    },
+    {
+      "Path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "Status": "Valid",
+      "Signer": "CN=\"Brave Software, Inc.\", O=\"Brave Software, Inc.\", L=San Francisco, S=California, C=US"
+    },
+    {
+      "Path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+      "Status": "Valid",
+      "Signer": "CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+    },
+    {
+      "Path": "C:\\Program Files\\SteelSeries\\GG\\apps\\engine\\prism\\SteelSeriesPrism.exe",
+      "Status": "Valid",
+      "Signer": "CN=GN Hearing A/S, O=GN Hearing A/S, L=Ballerup, C=DK, SERIALNUMBER=55082715, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=DK"
+    },
+    {
+      "Path": "C:\\Program Files\\SteelSeries\\GG\\apps\\engine\\SteelSeriesEngine.exe",
+      "Status": "Valid",
+      "Signer": "CN=GN Hearing A/S, O=GN Hearing A/S, L=Ballerup, C=DK, SERIALNUMBER=55082715, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=DK"
+    },
+    {
+      "Path": "C:\\Program Files\\SteelSeries\\GG\\apps\\moments\\SteelSeriesMoments.exe",
+      "Status": "Valid",
+      "Signer": "CN=GN Hearing A/S, O=GN Hearing A/S, L=Ballerup, C=DK, SERIALNUMBER=55082715, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=DK"
+    },
+    {
+      "Path": "C:\\Program Files\\SteelSeries\\GG\\SteelSeriesGG.exe",
+      "Status": "Valid",
+      "Signer": "CN=GN Hearing A/S, O=GN Hearing A/S, L=Ballerup, C=DK, SERIALNUMBER=55082715, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=DK"
+    },
+    {
+      "Path": "C:\\Program Files\\SteelSeries\\GG\\SteelSeriesGGEZ.exe",
+      "Status": "Valid",
+      "Signer": "CN=GN Hearing A/S, O=GN Hearing A/S, L=Ballerup, C=DK, SERIALNUMBER=55082715, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=DK"
+    },
+    {
+      "Path": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe",
+      "Status": "Valid",
+      "Signer": "CN=\"OpenAI OpCo, LLC\", O=\"OpenAI OpCo, LLC\", L=San Francisco, S=California, C=US"
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Local\\OpenAI\\Codex\\bin\\9614f1d9b40d9c4f\\codex.exe",
+      "Status": "Valid",
+      "Signer": "CN=\"OpenAI OpCo, LLC\", O=\"OpenAI OpCo, LLC\", L=San Francisco, S=California, C=US"
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Local\\Programs\\BeeperTexts\\Beeper.exe",
+      "Status": "Valid",
+      "Signer": "CN=Automattic Inc., O=Automattic Inc., L=San Francisco, S=California, C=US"
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+      "Status": "Valid",
+      "Signer": "CN=\"Swift Media Entertainment, Inc.\", O=\"Swift Media Entertainment, Inc.\", L=Los Angeles, S=California, C=US, SERIALNUMBER=6614056, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US"
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe",
+      "Status": "Valid",
+      "Signer": "E=info@telegram.org, CN=Telegram FZ-LLC, O=Telegram FZ-LLC, L=Dubai, S=Dubai, C=AE, OID.1.3.6.1.4.1.311.60.2.1.2=Dubai, OID.1.3.6.1.4.1.311.60.2.1.3=AE, SERIALNUMBER=94349, OID.2.5.4.15=Private Organization"
+    },
+    {
+      "Path": "C:\\WINDOWS\\Explorer.EXE",
+      "Status": "Valid",
+      "Signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    },
+    {
+      "Path": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+      "Status": "Valid",
+      "Signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    },
+    {
+      "Path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+      "Status": "Valid",
+      "Signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    }
+  ]
+}

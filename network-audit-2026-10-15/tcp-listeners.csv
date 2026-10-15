@@ -1,0 +1,40 @@
+﻿LocalAddress,LocalPort,PID,Process,Path,Services
+::,49671,8844,svchost.exe,,SessionEnv
+::,49670,1656,services.exe,,
+::1,49669,5112,jhi_service.exe,,jhi_service
+::,49668,4728,spoolsv.exe,,Spooler
+::,49667,3784,svchost.exe,,EventLog
+::,49666,2456,svchost.exe,,Schedule
+::,49665,1548,wininit.exe,,
+::,49664,1684,lsass.exe,,"KeyIso, SamSs, VaultSvc"
+::,7680,25820,svchost.exe,,DoSvc
+::,3389,9072,svchost.exe,,TermService
+::,2179,3340,vmms.exe,,vmms
+::,445,4,System,,
+::,135,2012,svchost.exe,,"RpcEptMapper, RpcSs"
+127.0.0.1,59330,19036,SteelSeriesMoments.exe,C:\Program Files\SteelSeries\GG\apps\moments\SteelSeriesMoments.exe,
+127.0.0.1,57393,19576,SteelSeriesPrism.exe,C:\Program Files\SteelSeries\GG\apps\engine\prism\SteelSeriesPrism.exe,
+127.0.0.1,57121,17744,SteelSeriesGG.exe,C:\Program Files\SteelSeries\GG\SteelSeriesGG.exe,
+127.0.0.1,57108,17032,steam.exe,C:\Games\Steam\steam.exe,
+127.0.0.1,57107,17032,steam.exe,C:\Games\Steam\steam.exe,
+127.0.0.1,56625,17680,SteelSeriesEngine.exe,C:\Program Files\SteelSeries\GG\apps\engine\SteelSeriesEngine.exe,
+192.168.1.22,50458,1364,rustdesk.exe,,
+0.0.0.0,49671,8844,svchost.exe,,SessionEnv
+0.0.0.0,49670,1656,services.exe,,
+0.0.0.0,49668,4728,spoolsv.exe,,Spooler
+0.0.0.0,49667,3784,svchost.exe,,EventLog
+0.0.0.0,49666,2456,svchost.exe,,Schedule
+0.0.0.0,49665,1548,wininit.exe,,
+0.0.0.0,49664,1684,lsass.exe,,"KeyIso, SamSs, VaultSvc"
+0.0.0.0,27036,17032,steam.exe,C:\Games\Steam\steam.exe,
+127.0.0.1,23373,21384,Beeper.exe,C:\Users\seala\AppData\Local\Programs\BeeperTexts\Beeper.exe,
+127.0.0.1,6329,17744,SteelSeriesGG.exe,C:\Program Files\SteelSeries\GG\SteelSeriesGG.exe,
+127.0.0.1,6328,16740,SteelSeriesGGEZ.exe,,
+127.0.0.1,6327,16740,SteelSeriesGGEZ.exe,,
+0.0.0.0,5040,11548,svchost.exe,,CDPSvc
+0.0.0.0,3389,9072,svchost.exe,,TermService
+0.0.0.0,2179,3340,vmms.exe,,vmms
+192.168.56.1,139,4,System,,
+192.168.1.22,139,4,System,,
+172.22.128.1,139,4,System,,
+0.0.0.0,135,2012,svchost.exe,,"RpcEptMapper, RpcSs"

@@ -1,0 +1,691 @@
+[
+  {
+    "IP": "13.224.245.88",
+    "Prefix": "13.224.240.0/21",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16509,
+        "holder": "AMAZON-02 - Amazon.com, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=13.224.245.88",
+    "Error": null
+  },
+  {
+    "IP": "13.229.47.174",
+    "Prefix": "13.228.0.0/15",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16509,
+        "holder": "AMAZON-02 - Amazon.com, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=13.229.47.174",
+    "Error": null
+  },
+  {
+    "IP": "131.153.232.252",
+    "Prefix": "131.153.232.0/24",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 19437,
+        "holder": "SS-ASH - SECURED SERVERS LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=131.153.232.252",
+    "Error": null
+  },
+  {
+    "IP": "146.75.122.214",
+    "Prefix": "146.75.120.0/22",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 54113,
+        "holder": "FASTLY - Fastly, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=146.75.122.214",
+    "Error": null
+  },
+  {
+    "IP": "149.154.167.41",
+    "Prefix": "149.154.167.0/24",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 62041,
+        "holder": "Telegram Telegram Messenger Inc"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=149.154.167.41",
+    "Error": null
+  },
+  {
+    "IP": "149.154.167.91",
+    "Prefix": "149.154.167.0/24",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 62041,
+        "holder": "Telegram Telegram Messenger Inc"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=149.154.167.91",
+    "Error": null
+  },
+  {
+    "IP": "149.154.167.92",
+    "Prefix": "149.154.167.0/24",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 62041,
+        "holder": "Telegram Telegram Messenger Inc"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=149.154.167.92",
+    "Error": null
+  },
+  {
+    "IP": "155.133.229.4",
+    "Prefix": "155.133.229.0/24",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 32590,
+        "holder": "VALVE-CORPORATION - Valve Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=155.133.229.4",
+    "Error": null
+  },
+  {
+    "IP": "167.233.8.106",
+    "Prefix": "167.233.0.0/16",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 24940,
+        "holder": "HETZNER-AS Hetzner Online GmbH"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=167.233.8.106",
+    "Error": null
+  },
+  {
+    "IP": "169.150.202.210",
+    "Prefix": "169.150.202.0/24",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 60068,
+        "holder": "CDN77 Datacamp Limited"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=169.150.202.210",
+    "Error": null
+  },
+  {
+    "IP": "2001:67c:2e8:22::c100:696",
+    "Prefix": "2001:67c:2e8::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 3333,
+        "holder": "RIPE-NCC-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC)"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2001%3A67c%3A2e8%3A22%3A%3Ac100%3A696",
+    "Error": null
+  },
+  {
+    "IP": "213.57.94.219",
+    "Prefix": "213.57.88.0/21",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 12849,
+        "holder": "HOTNET-IL Hot-Net internet services Ltd."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=213.57.94.219",
+    "Error": null
+  },
+  {
+    "IP": "2400:52e0:1e03::1486:1",
+    "Prefix": "2400:52e0:1e03::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 200325,
+        "holder": "BunnyCDN BUNNYWAY, informacijske storitve d.o.o."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2400%3A52e0%3A1e03%3A%3A1486%3A1",
+    "Error": null
+  },
+  {
+    "IP": "2600:1901:0:5e8a::",
+    "Prefix": "2600:1901::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 396982,
+        "holder": "GOOGLE-CLOUD-PLATFORM - Google LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2600%3A1901%3A0%3A5e8a%3A%3A",
+    "Error": null
+  },
+  {
+    "IP": "2600:1901:0:85c5::",
+    "Prefix": "2600:1901::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 396982,
+        "holder": "GOOGLE-CLOUD-PLATFORM - Google LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2600%3A1901%3A0%3A85c5%3A%3A",
+    "Error": null
+  },
+  {
+    "IP": "2600:9000:21b3:5a00:19:b6f1:d180:93a1",
+    "Prefix": "2600:9000:21b3::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16509,
+        "holder": "AMAZON-02 - Amazon.com, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2600%3A9000%3A21b3%3A5a00%3A19%3Ab6f1%3Ad180%3A93a1",
+    "Error": null
+  },
+  {
+    "IP": "2600:9000:2837:7400:1b:cadc:ef40:93a1",
+    "Prefix": "2600:9000:2837::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16509,
+        "holder": "AMAZON-02 - Amazon.com, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2600%3A9000%3A2837%3A7400%3A1b%3Acadc%3Aef40%3A93a1",
+    "Error": null
+  },
+  {
+    "IP": "2603:1020:805:3::402",
+    "Prefix": "2603:1000::/25",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 8075,
+        "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2603%3A1020%3A805%3A3%3A%3A402",
+    "Error": null
+  },
+  {
+    "IP": "2603:1046:c12:1400::2",
+    "Prefix": "2603:1000::/25",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 8075,
+        "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2603%3A1046%3Ac12%3A1400%3A%3A2",
+    "Error": null
+  },
+  {
+    "IP": "2603:1046:c12:c00::2",
+    "Prefix": "2603:1000::/25",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 8075,
+        "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2603%3A1046%3Ac12%3Ac00%3A%3A2",
+    "Error": null
+  },
+  {
+    "IP": "2603:1063:2001:3200::365:ff1",
+    "Prefix": "2603:1000::/25",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 8075,
+        "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2603%3A1063%3A2001%3A3200%3A%3A365%3Aff1",
+    "Error": null
+  },
+  {
+    "IP": "2603:1063:2001:3201::365:ff1",
+    "Prefix": "2603:1000::/25",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 8075,
+        "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2603%3A1063%3A2001%3A3201%3A%3A365%3Aff1",
+    "Error": null
+  },
+  {
+    "IP": "2603:1063:2001:3203::365:ff1",
+    "Prefix": "2603:1000::/25",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 8075,
+        "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2603%3A1063%3A2001%3A3203%3A%3A365%3Aff1",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700::6812:e1d",
+    "Prefix": "2606:4700::/44",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A%3A6812%3Ae1d",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700::6812:f1d",
+    "Prefix": "2606:4700::/44",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A%3A6812%3Af1d",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:10::6814:1b19",
+    "Prefix": "2606:4700:10::/44",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A10%3A%3A6814%3A1b19",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:10::ac42:a08b",
+    "Prefix": "2606:4700:10::/44",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A10%3A%3Aac42%3Aa08b",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:20::ac43:4969",
+    "Prefix": "2606:4700:20::/44",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A20%3A%3Aac43%3A4969",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:3030::ac43:a869",
+    "Prefix": "2606:4700:3030::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A3030%3A%3Aac43%3Aa869",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:4403::ac40:94eb",
+    "Prefix": "2606:4700:4403::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A4403%3A%3Aac40%3A94eb",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:4409::ac40:961c",
+    "Prefix": "2606:4700:4409::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A4409%3A%3Aac40%3A961c",
+    "Error": null
+  },
+  {
+    "IP": "2606:4700:440b::6812:2715",
+    "Prefix": "2606:4700:440b::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2606%3A4700%3A440b%3A%3A6812%3A2715",
+    "Error": null
+  },
+  {
+    "IP": "2607:5300:60:4fc1::",
+    "Prefix": "2607:5300::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16276,
+        "holder": "OVH OVH SAS"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2607%3A5300%3A60%3A4fc1%3A%3A",
+    "Error": null
+  },
+  {
+    "IP": "2a00:1450:4001:c21::bc",
+    "Prefix": "2a00:1450:4001::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 15169,
+        "holder": "GOOGLE - Google LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3A1450%3A4001%3Ac21%3A%3Abc",
+    "Error": null
+  },
+  {
+    "IP": "2a00:1450:400c:c0a::bc",
+    "Prefix": "2a00:1450:400c::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 15169,
+        "holder": "GOOGLE - Google LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3A1450%3A400c%3Ac0a%3A%3Abc",
+    "Error": null
+  },
+  {
+    "IP": "2a00:1450:4028:806::2003",
+    "Prefix": "2a00:1450::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 15169,
+        "holder": "GOOGLE - Google LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3A1450%3A4028%3A806%3A%3A2003",
+    "Error": null
+  },
+  {
+    "IP": "2a00:a040:0:186::21cc",
+    "Prefix": "2a00:a040::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 12849,
+        "holder": "HOTNET-IL Hot-Net internet services Ltd."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3Aa040%3A0%3A186%3A%3A21cc",
+    "Error": null
+  },
+  {
+    "IP": "2a00:a040:0:197::21cc",
+    "Prefix": "2a00:a040::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 12849,
+        "holder": "HOTNET-IL Hot-Net internet services Ltd."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3Aa040%3A0%3A197%3A%3A21cc",
+    "Error": null
+  },
+  {
+    "IP": "2a00:a040:0:6::4d89:b21b",
+    "Prefix": "2a00:a040::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 12849,
+        "holder": "HOTNET-IL Hot-Net internet services Ltd."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3Aa040%3A0%3A6%3A%3A4d89%3Ab21b",
+    "Error": null
+  },
+  {
+    "IP": "2a00:a040:0:6::4d89:b23b",
+    "Prefix": "2a00:a040::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 12849,
+        "holder": "HOTNET-IL Hot-Net internet services Ltd."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3Aa040%3A0%3A6%3A%3A4d89%3Ab23b",
+    "Error": null
+  },
+  {
+    "IP": "2a00:a040:3:2::162",
+    "Prefix": "2a00:a040::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 12849,
+        "holder": "HOTNET-IL Hot-Net internet services Ltd."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a00%3Aa040%3A3%3A2%3A%3A162",
+    "Error": null
+  },
+  {
+    "IP": "2a01:4f8:1c1d:1014::1",
+    "Prefix": "2a01:4f8::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 24940,
+        "holder": "HETZNER-AS Hetzner Online GmbH"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a01%3A4f8%3A1c1d%3A1014%3A%3A1",
+    "Error": null
+  },
+  {
+    "IP": "2a01:4f8:c01e:413::1",
+    "Prefix": "2a01:4f8::/32",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 24940,
+        "holder": "HETZNER-AS Hetzner Online GmbH"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a01%3A4f8%3Ac01e%3A413%3A%3A1",
+    "Error": null
+  },
+  {
+    "IP": "2a03:2880:f319:120:face:b00c:0:167",
+    "Prefix": "2a03:2880:f319::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 32934,
+        "holder": "FACEBOOK - Facebook, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a03%3A2880%3Af319%3A120%3Aface%3Ab00c%3A0%3A167",
+    "Error": null
+  },
+  {
+    "IP": "2a03:2880:f319:186:face:b00c:0:1cc9",
+    "Prefix": "2a03:2880:f319::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 32934,
+        "holder": "FACEBOOK - Facebook, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a03%3A2880%3Af319%3A186%3Aface%3Ab00c%3A0%3A1cc9",
+    "Error": null
+  },
+  {
+    "IP": "2a03:2880:f319:91:face:b00c:0:6206",
+    "Prefix": "2a03:2880:f319::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 32934,
+        "holder": "FACEBOOK - Facebook, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a03%3A2880%3Af319%3A91%3Aface%3Ab00c%3A0%3A6206",
+    "Error": null
+  },
+  {
+    "IP": "2a04:4e42:8e::300",
+    "Prefix": "2a04:4e42:8e::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 54113,
+        "holder": "FASTLY - Fastly, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a04%3A4e42%3A8e%3A%3A300",
+    "Error": null
+  },
+  {
+    "IP": "2a06:98c1:3101::6812:202f",
+    "Prefix": "2a06:98c1:3101::/48",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 13335,
+        "holder": "CLOUDFLARENET - Cloudflare, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=2a06%3A98c1%3A3101%3A%3A6812%3A202f",
+    "Error": null
+  },
+  {
+    "IP": "32.184.75.39",
+    "Prefix": "32.184.0.0/14",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16509,
+        "holder": "AMAZON-02 - Amazon.com, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=32.184.75.39",
+    "Error": null
+  },
+  {
+    "IP": "34.95.69.49",
+    "Prefix": "34.92.0.0/14",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 396982,
+        "holder": "GOOGLE-CLOUD-PLATFORM - Google LLC"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=34.95.69.49",
+    "Error": null
+  },
+  {
+    "IP": "44.241.83.144",
+    "Prefix": "44.224.0.0/11",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 16509,
+        "holder": "AMAZON-02 - Amazon.com, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=44.241.83.144",
+    "Error": null
+  },
+  {
+    "IP": "49.13.42.238",
+    "Prefix": "49.13.0.0/16",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 24940,
+        "holder": "HETZNER-AS Hetzner Online GmbH"
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=49.13.42.238",
+    "Error": null
+  },
+  {
+    "IP": "57.144.62.145",
+    "Prefix": "57.144.62.0/23",
+    "Announced": true,
+    "ASNs": [
+      {
+        "asn": 32934,
+        "holder": "FACEBOOK - Facebook, Inc."
+      }
+    ],
+    "Source": "https://stat.ripe.net/data/prefix-overview/data.json?resource=57.144.62.145",
+    "Error": null
+  }
+]

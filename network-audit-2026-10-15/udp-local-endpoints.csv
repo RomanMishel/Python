@@ -1,0 +1,73 @@
+﻿LocalAddress,LocalPort,OwningProcess,Process,Path,Services
+::1,62794,15440,svchost.exe,,SSDPSRV
+fe80::2991:c0ae:bf83:d675%18,62793,15440,svchost.exe,,SSDPSRV
+fe80::7d66:bcf4:2ec:d36%16,62792,15440,svchost.exe,,SSDPSRV
+fe80::b227:7526:61d8:380e%20,62791,15440,svchost.exe,,SSDPSRV
+::,57873,3172,svchost.exe,,Dnscache
+2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4,53885,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+2a00:a041:eabd:ed00:7392:8bf4:2c03:c679,53884,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+::,52813,4340,svchost.exe,,SharedAccess
+::,27036,17032,steam.exe,C:\Games\Steam\steam.exe,
+::,5355,3172,svchost.exe,,Dnscache
+::,5353,3172,svchost.exe,,Dnscache
+::,3389,9072,svchost.exe,,TermService
+fe80::b227:7526:61d8:380e%20,2177,27060,svchost.exe,,QWAVE
+fe80::7d66:bcf4:2ec:d36%16,2177,27060,svchost.exe,,QWAVE
+fe80::2991:c0ae:bf83:d675%18,2177,27060,svchost.exe,,QWAVE
+2a00:a041:eabd:ed00:dcb0:df77:9a46:86c4,2177,27060,svchost.exe,,QWAVE
+2a00:a041:eabd:ed00:7392:8bf4:2c03:c679,2177,27060,svchost.exe,,QWAVE
+fe80::b227:7526:61d8:380e%20,1900,15440,svchost.exe,,SSDPSRV
+fe80::7d66:bcf4:2ec:d36%16,1900,15440,svchost.exe,,SSDPSRV
+fe80::2991:c0ae:bf83:d675%18,1900,15440,svchost.exe,,SSDPSRV
+::1,1900,15440,svchost.exe,,SSDPSRV
+127.0.0.1,62798,15440,svchost.exe,,SSDPSRV
+192.168.56.1,62797,15440,svchost.exe,,SSDPSRV
+192.168.1.22,62796,15440,svchost.exe,,SSDPSRV
+172.22.128.1,62795,15440,svchost.exe,,SSDPSRV
+127.0.0.1,61773,5152,svchost.exe,,iphlpsvc
+0.0.0.0,60806,20932,brave.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,
+127.0.0.1,60764,9388,nvcontainer.exe,C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe,
+0.0.0.0,54123,20444,Blitz.exe,C:\Users\seala\AppData\Local\Programs\Blitz\Blitz.exe,
+192.168.56.1,53883,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+192.168.1.22,53882,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+172.22.128.1,53881,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+0.0.0.0,52812,4340,svchost.exe,,SharedAccess
+0.0.0.0,52811,4340,svchost.exe,,SharedAccess
+0.0.0.0,51866,1364,rustdesk.exe,,
+192.168.1.22,27036,17032,steam.exe,C:\Games\Steam\steam.exe,
+172.22.128.1,27036,17032,steam.exe,C:\Games\Steam\steam.exe,
+0.0.0.0,21119,1364,rustdesk.exe,,
+127.0.0.1,10010,9388,nvcontainer.exe,C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe,
+0.0.0.0,5355,3172,svchost.exe,,Dnscache
+0.0.0.0,5353,24320,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+0.0.0.0,5050,11548,svchost.exe,,CDPSvc
+0.0.0.0,3389,9072,svchost.exe,,TermService
+192.168.56.1,2177,27060,svchost.exe,,QWAVE
+192.168.1.22,2177,27060,svchost.exe,,QWAVE
+172.22.128.1,2177,27060,svchost.exe,,QWAVE
+192.168.56.1,1900,15440,svchost.exe,,SSDPSRV
+192.168.1.22,1900,15440,svchost.exe,,SSDPSRV
+172.22.128.1,1900,15440,svchost.exe,,SSDPSRV
+127.0.0.1,1900,15440,svchost.exe,,SSDPSRV
+192.168.56.1,138,4,System,,
+192.168.1.22,138,4,System,,
+172.22.128.1,138,4,System,,
+192.168.56.1,137,4,System,,
+192.168.1.22,137,4,System,,
+172.22.128.1,137,4,System,,
+172.22.128.1,68,4340,svchost.exe,,SharedAccess
+172.22.128.1,67,4340,svchost.exe,,SharedAccess
+0.0.0.0,53,4340,svchost.exe,,SharedAccess
+::,51182,3172,svchost.exe,,Dnscache
+0.0.0.0,52141,20932,brave.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,
+0.0.0.0,5353,20640,brave.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,
+::,5353,24320,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+::,5353,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,
+::,52726,3172,svchost.exe,,Dnscache
+::,5353,20640,brave.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,
+0.0.0.0,5353,17092,steamwebhelper.exe,C:\Games\Steam\bin\cef\cef.win64\steamwebhelper.exe,
+0.0.0.0,5353,3172,svchost.exe,,Dnscache
+::,5353,20932,brave.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,
+::,5353,17092,steamwebhelper.exe,C:\Games\Steam\bin\cef\cef.win64\steamwebhelper.exe,
+0.0.0.0,5353,20932,brave.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,
+::,63703,3828,ChatGPT.exe,C:\Program Files\WindowsApps\OpenAI.Codex_26.1007.9446.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe,

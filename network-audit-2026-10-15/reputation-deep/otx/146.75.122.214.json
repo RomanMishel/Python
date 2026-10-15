@@ -1,0 +1,67 @@
+{
+  "whois": "http://whois.domaintools.com/146.75.122.214",
+  "reputation": 0,
+  "indicator": "146.75.122.214",
+  "type": "IPv4",
+  "type_title": "IPv4",
+  "base_indicator": {},
+  "pulse_info": {
+    "count": 0,
+    "pulses": [],
+    "references": [],
+    "related": {
+      "alienvault": {
+        "adversary": [],
+        "malware_families": [],
+        "industries": []
+      },
+      "other": {
+        "adversary": [],
+        "malware_families": [],
+        "industries": []
+      }
+    }
+  },
+  "false_positive": [],
+  "validation": [
+    {
+      "source": "cdn",
+      "message": "In CDN range: provider=fastly",
+      "name": "CDN IP ranges"
+    },
+    {
+      "source": "whitelist",
+      "message": "contained in whitelisted prefix",
+      "name": "Whitelisted IP"
+    }
+  ],
+  "asn": "AS54113 fastly",
+  "city_data": true,
+  "city": null,
+  "region": null,
+  "continent_code": "NA",
+  "country_code3": "USA",
+  "country_code2": "US",
+  "subdivision": null,
+  "latitude": 37.751,
+  "postal_code": null,
+  "longitude": -97.822,
+  "accuracy_radius": 1000,
+  "country_code": "US",
+  "country_name": "United States of America",
+  "dma_code": 0,
+  "charset": 0,
+  "area_code": 0,
+  "flag_url": "/assets/images/flags/us.png",
+  "flag_title": "United States of America",
+  "sections": [
+    "general",
+    "geo",
+    "reputation",
+    "url_list",
+    "passive_dns",
+    "malware",
+    "nids_list",
+    "http_scans"
+  ]
+}

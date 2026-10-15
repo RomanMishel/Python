@@ -1,0 +1,22 @@
+{
+  "IPsChecked": 53,
+  "OTXWithPulses": [
+    "13.224.245.88",
+    "34.95.69.49",
+    "149.154.167.41",
+    "149.154.167.91",
+    "149.154.167.92"
+  ],
+  "PhishStatsIPsCovered": 53,
+  "PhishStatsRecords": 0,
+  "ExtraFeedMatches": {
+    "blocklist-de": {},
+    "cins": {},
+    "emergingthreats": {}
+  },
+  "PrioritizeForAttribution": "34.95.69.49",
+  "Files": [
+    "reputation-report.md",
+    "ip-reputation-deep.csv"
+  ]
+}

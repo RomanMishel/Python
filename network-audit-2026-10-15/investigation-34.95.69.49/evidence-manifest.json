@@ -1,0 +1,87 @@
+[
+  {
+    "File": "after-uninstall.json",
+    "Bytes": 1141,
+    "SHA256": "a7383473823098cd4c64b9176ab8d0a1206d917c89f203a9919b7890de74e151"
+  },
+  {
+    "File": "autostart-registry-confirmation.json",
+    "Bytes": 105,
+    "SHA256": "e88f7fdc5879c064cd5d60c956adef6bd510ee409a8e026741eeb06be65ff2aa"
+  },
+  {
+    "File": "blitz-network-persistent-state.json",
+    "Bytes": 26074,
+    "SHA256": "54f9454c5e868aa107eb3570140fa879e7070d353a77e3d7cd8b22746cb268b5"
+  },
+  {
+    "File": "blitz-network-state-metadata.json",
+    "Bytes": 229,
+    "SHA256": "0322154db82dc8764ac74096027590ee129989cf598eb1e318b8e858c478d50d"
+  },
+  {
+    "File": "blitz-process-and-file.json",
+    "Bytes": 3498,
+    "SHA256": "09e45df93f4960894e6a13efbdf03f45d3daa78c8bfa8cd4e7d85dc86177fc29"
+  },
+  {
+    "File": "blitz-window-events-redacted.txt",
+    "Bytes": 0,
+    "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "File": "brave-history-copy-findings.json",
+    "Bytes": 578,
+    "SHA256": "11446cff79e1c652735f6c1206c9caf042087a53999a818a8ee937feff821ed1"
+  },
+  {
+    "File": "dns-and-defender.json",
+    "Bytes": 433,
+    "SHA256": "16b7e0e6d580697b0e55c9357cc368f460d1d59c798f3a41106dfa8b10ead6a0"
+  },
+  {
+    "File": "final-connection-check.json",
+    "Bytes": 106,
+    "SHA256": "696f96db31b091b33055c026b9d3a9b43f24a542a709758fb612e4b1c02826d3"
+  },
+  {
+    "File": "history-copy-status.json",
+    "Bytes": 1354,
+    "SHA256": "57dd1a3015379850741d15cce8750d14332b80b1b3f78da0a830468493fce835"
+  },
+  {
+    "File": "initial-state.json",
+    "Bytes": 16418,
+    "SHA256": "4e27c8ddb3067e6753cb26cf659e9e015f00e33c9ffce6090118828eb2cb1731"
+  },
+  {
+    "File": "inspect_local_artifacts.py",
+    "Bytes": 5168,
+    "SHA256": "d15ebfcc0a7438d7036e24b26421ca503d1c7fd7a4daebe24d2a3d4547a63ce7"
+  },
+  {
+    "File": "local-artifact-findings.json",
+    "Bytes": 3222,
+    "SHA256": "0a89fd48326df48eba7b6450f92a529aeb233eae93ba521d6bb1af56f8580886"
+  },
+  {
+    "File": "remaining-files.json",
+    "Bytes": 2342,
+    "SHA256": "d8c08916f05f1baa0df2aa567687214b1a9bd28efd8e3dde4f9cc3adf1fc203e"
+  },
+  {
+    "File": "remaining-overlay-search.json",
+    "Bytes": 172,
+    "SHA256": "cace1c0ccd40a739bb519060d3b0016253d3df715fbe6cd3fe87a98e28747cd7"
+  },
+  {
+    "File": "report.md",
+    "Bytes": 17180,
+    "SHA256": "4d5df9bb109c0fcf1f7a47943b7e6b0af54f44373b6ae021b9070f29e082c642"
+  },
+  {
+    "File": "target-connection-samples.json",
+    "Bytes": 11351,
+    "SHA256": "d29325d71e7287212ef29b17d3aa049a77c03489047c7c9bf162f27aaf50d769"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "blocklist-de",
+    "Source": "https://lists.blocklist.de/lists/all.txt",
+    "Status": "OK",
+    "LastModified": [
+      "Thu, 15 Oct 2026 08:30:02 GMT"
+    ],
+    "Bytes": 364504,
+    "FetchedAt": "2026-10-15T11:48:49.8497901+03:00"
+  },
+  {
+    "Name": "cins",
+    "Source": "https://cinsscore.com/list/ci-badguys.txt",
+    "Status": "OK",
+    "LastModified": [
+      "Thu, 15 Oct 2026 08:04:01 GMT"
+    ],
+    "Bytes": 211280,
+    "FetchedAt": "2026-10-15T11:48:50.9152209+03:00"
+  },
+  {
+    "Name": "emergingthreats",
+    "Source": "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
+    "Status": "OK",
+    "LastModified": [
+      "Wed, 14 Oct 2026 21:07:56 GMT"
+    ],
+    "Bytes": 7638,
+    "FetchedAt": "2026-10-15T11:48:51.4970429+03:00"
+  }
+]

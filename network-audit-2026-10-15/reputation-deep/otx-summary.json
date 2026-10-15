@@ -1,0 +1,625 @@
+[
+  {
+    "IP": "13.229.47.174",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/13.229.47.174/general",
+    "FetchedAt": "2026-10-15T11:48:14.8379154+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [
+      {
+        "source": "cloud",
+        "message": "In cloud provider range: provider=AWS",
+        "name": "Cloud Provider IP range"
+      }
+    ],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "13.224.245.88",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/13.224.245.88/general",
+    "FetchedAt": "2026-10-15T11:48:14.8745989+03:00",
+    "Reputation": 0,
+    "PulseCount": 6,
+    "ReturnedPulses": 6,
+    "Validation": [
+      {
+        "source": "cdn",
+        "message": "In CDN range: provider=cloudfront",
+        "name": "CDN IP ranges"
+      },
+      {
+        "source": "cloud",
+        "message": "In cloud provider range: provider=AWS",
+        "name": "Cloud Provider IP range"
+      }
+    ],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "34.95.69.49",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/34.95.69.49/general",
+    "FetchedAt": "2026-10-15T11:48:15.4833211+03:00",
+    "Reputation": 0,
+    "PulseCount": 9,
+    "ReturnedPulses": 9,
+    "Validation": [
+      {
+        "source": "cloud",
+        "message": "In cloud provider range: provider=google",
+        "name": "Cloud Provider IP range"
+      }
+    ],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "32.184.75.39",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/32.184.75.39/general",
+    "FetchedAt": "2026-10-15T11:48:15.5248643+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "44.241.83.144",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/44.241.83.144/general",
+    "FetchedAt": "2026-10-15T11:48:16.0759286+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [
+      {
+        "source": "cloud",
+        "message": "In cloud provider range: provider=AWS",
+        "name": "Cloud Provider IP range"
+      }
+    ],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "49.13.42.238",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/49.13.42.238/general",
+    "FetchedAt": "2026-10-15T11:48:16.0819171+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "131.153.232.252",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/131.153.232.252/general",
+    "FetchedAt": "2026-10-15T11:48:16.6334912+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "57.144.62.145",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/57.144.62.145/general",
+    "FetchedAt": "2026-10-15T11:48:16.6507421+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "146.75.122.214",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/146.75.122.214/general",
+    "FetchedAt": "2026-10-15T11:48:17.1852404+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [
+      {
+        "source": "cdn",
+        "message": "In CDN range: provider=fastly",
+        "name": "CDN IP ranges"
+      },
+      {
+        "source": "whitelist",
+        "message": "contained in whitelisted prefix",
+        "name": "Whitelisted IP"
+      }
+    ],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "149.154.167.91",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/149.154.167.91/general",
+    "FetchedAt": "2026-10-15T11:48:17.9497165+03:00",
+    "Reputation": 0,
+    "PulseCount": 50,
+    "ReturnedPulses": 50,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "149.154.167.92",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/149.154.167.92/general",
+    "FetchedAt": "2026-10-15T11:48:18.6761453+03:00",
+    "Reputation": 0,
+    "PulseCount": 40,
+    "ReturnedPulses": 40,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "155.133.229.4",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/155.133.229.4/general",
+    "FetchedAt": "2026-10-15T11:48:19.2250679+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "167.233.8.106",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/167.233.8.106/general",
+    "FetchedAt": "2026-10-15T11:48:19.7913941+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "169.150.202.210",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/169.150.202.210/general",
+    "FetchedAt": "2026-10-15T11:48:20.3523761+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "149.154.167.41",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/149.154.167.41/general",
+    "FetchedAt": "2026-10-15T11:48:20.4459834+03:00",
+    "Reputation": 0,
+    "PulseCount": 30,
+    "ReturnedPulses": 30,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "213.57.94.219",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv4/213.57.94.219/general",
+    "FetchedAt": "2026-10-15T11:48:20.9187347+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2001:67c:2e8:22::c100:696",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2001%3A67c%3A2e8%3A22%3A%3Ac100%3A696/general",
+    "FetchedAt": "2026-10-15T11:48:21.0094861+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2400:52e0:1e03::1486:1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2400%3A52e0%3A1e03%3A%3A1486%3A1/general",
+    "FetchedAt": "2026-10-15T11:48:21.4745540+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2600:1901:0:5e8a::",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2600%3A1901%3A0%3A5e8a%3A%3A/general",
+    "FetchedAt": "2026-10-15T11:48:21.5604154+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2600:9000:21b3:5a00:19:b6f1:d180:93a1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2600%3A9000%3A21b3%3A5a00%3A19%3Ab6f1%3Ad180%3A93a1/general",
+    "FetchedAt": "2026-10-15T11:48:22.5030665+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2600:9000:2837:7400:1b:cadc:ef40:93a1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2600%3A9000%3A2837%3A7400%3A1b%3Acadc%3Aef40%3A93a1/general",
+    "FetchedAt": "2026-10-15T11:48:23.0719556+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2603:1020:805:3::402",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2603%3A1020%3A805%3A3%3A%3A402/general",
+    "FetchedAt": "2026-10-15T11:48:23.6139903+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2603:1046:c12:c00::2",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2603%3A1046%3Ac12%3Ac00%3A%3A2/general",
+    "FetchedAt": "2026-10-15T11:48:24.1799374+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2603:1046:c12:1400::2",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2603%3A1046%3Ac12%3A1400%3A%3A2/general",
+    "FetchedAt": "2026-10-15T11:48:24.7365455+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2603:1063:2001:3200::365:ff1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2603%3A1063%3A2001%3A3200%3A%3A365%3Aff1/general",
+    "FetchedAt": "2026-10-15T11:48:25.2940340+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2603:1063:2001:3201::365:ff1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2603%3A1063%3A2001%3A3201%3A%3A365%3Aff1/general",
+    "FetchedAt": "2026-10-15T11:48:25.9624970+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2603:1063:2001:3203::365:ff1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2603%3A1063%3A2001%3A3203%3A%3A365%3Aff1/general",
+    "FetchedAt": "2026-10-15T11:48:26.6815745+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700::6812:e1d",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A%3A6812%3Ae1d/general",
+    "FetchedAt": "2026-10-15T11:48:27.3200540+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700::6812:f1d",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A%3A6812%3Af1d/general",
+    "FetchedAt": "2026-10-15T11:48:27.8757042+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:10::6814:1b19",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A10%3A%3A6814%3A1b19/general",
+    "FetchedAt": "2026-10-15T11:48:28.4312136+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:10::ac42:a08b",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A10%3A%3Aac42%3Aa08b/general",
+    "FetchedAt": "2026-10-15T11:48:29.1810023+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:20::ac43:4969",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A20%3A%3Aac43%3A4969/general",
+    "FetchedAt": "2026-10-15T11:48:29.7429165+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:3030::ac43:a869",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A3030%3A%3Aac43%3Aa869/general",
+    "FetchedAt": "2026-10-15T11:48:30.4523578+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:4403::ac40:94eb",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A4403%3A%3Aac40%3A94eb/general",
+    "FetchedAt": "2026-10-15T11:48:31.0069437+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:4409::ac40:961c",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A4409%3A%3Aac40%3A961c/general",
+    "FetchedAt": "2026-10-15T11:48:31.5707198+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2606:4700:440b::6812:2715",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2606%3A4700%3A440b%3A%3A6812%3A2715/general",
+    "FetchedAt": "2026-10-15T11:48:32.1314865+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2607:5300:60:4fc1::",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2607%3A5300%3A60%3A4fc1%3A%3A/general",
+    "FetchedAt": "2026-10-15T11:48:32.8104021+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2600:1901:0:85c5::",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2600%3A1901%3A0%3A85c5%3A%3A/general",
+    "FetchedAt": "2026-10-15T11:48:32.8144518+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:1450:400c:c0a::bc",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3A1450%3A400c%3Ac0a%3A%3Abc/general",
+    "FetchedAt": "2026-10-15T11:48:33.3742463+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:1450:4001:c21::bc",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3A1450%3A4001%3Ac21%3A%3Abc/general",
+    "FetchedAt": "2026-10-15T11:48:33.3742886+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:1450:4028:806::2003",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3A1450%3A4028%3A806%3A%3A2003/general",
+    "FetchedAt": "2026-10-15T11:48:33.9416828+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:a040:0:6::4d89:b21b",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3Aa040%3A0%3A6%3A%3A4d89%3Ab21b/general",
+    "FetchedAt": "2026-10-15T11:48:33.9431454+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:a040:0:6::4d89:b23b",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3Aa040%3A0%3A6%3A%3A4d89%3Ab23b/general",
+    "FetchedAt": "2026-10-15T11:48:34.5082051+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:a040:0:186::21cc",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3Aa040%3A0%3A186%3A%3A21cc/general",
+    "FetchedAt": "2026-10-15T11:48:34.9196760+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:a040:0:197::21cc",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3Aa040%3A0%3A197%3A%3A21cc/general",
+    "FetchedAt": "2026-10-15T11:48:35.0768155+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a00:a040:3:2::162",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a00%3Aa040%3A3%3A2%3A%3A162/general",
+    "FetchedAt": "2026-10-15T11:48:35.4807777+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a01:4f8:1c1d:1014::1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a01%3A4f8%3A1c1d%3A1014%3A%3A1/general",
+    "FetchedAt": "2026-10-15T11:48:35.6397901+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a03:2880:f319:91:face:b00c:0:6206",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a03%3A2880%3Af319%3A91%3Aface%3Ab00c%3A0%3A6206/general",
+    "FetchedAt": "2026-10-15T11:48:36.2095470+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a03:2880:f319:120:face:b00c:0:167",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a03%3A2880%3Af319%3A120%3Aface%3Ab00c%3A0%3A167/general",
+    "FetchedAt": "2026-10-15T11:48:36.7716481+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a01:4f8:c01e:413::1",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a01%3A4f8%3Ac01e%3A413%3A%3A1/general",
+    "FetchedAt": "2026-10-15T11:48:37.1648286+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a03:2880:f319:186:face:b00c:0:1cc9",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a03%3A2880%3Af319%3A186%3Aface%3Ab00c%3A0%3A1cc9/general",
+    "FetchedAt": "2026-10-15T11:48:37.3226834+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a04:4e42:8e::300",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a04%3A4e42%3A8e%3A%3A300/general",
+    "FetchedAt": "2026-10-15T11:48:37.7155882+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  },
+  {
+    "IP": "2a06:98c1:3101::6812:202f",
+    "Source": "https://otx.alienvault.com/api/v1/indicators/IPv6/2a06%3A98c1%3A3101%3A%3A6812%3A202f/general",
+    "FetchedAt": "2026-10-15T11:48:37.8691332+03:00",
+    "Reputation": 0,
+    "PulseCount": 0,
+    "ReturnedPulses": 0,
+    "Validation": [],
+    "FalsePositive": [],
+    "Status": "OK"
+  }
+]

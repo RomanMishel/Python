@@ -1,0 +1,42 @@
+{
+  "CapturedAt": "2026-10-15T12:04:45.1721283+03:00",
+  "BlitzProcesses": [],
+  "TargetConnections": [
+    {
+      "LocalAddress": "192.168.1.22",
+      "LocalPort": 49610,
+      "RemoteAddress": "34.95.69.49",
+      "RemotePort": 443,
+      "State": "TimeWait",
+      "OwningProcess": 0,
+      "CreationTime": "1601-01-01T02:00:00+02:00"
+    }
+  ],
+  "Startup": [
+    {
+      "Name": "com.blitz.app",
+      "Command": "\"C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz\\Blitz.exe\" --autostart",
+      "Location": "HKU\\S-1-5-21-630110484-3570929155-2760061511-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+    }
+  ],
+  "Uninstall": [],
+  "RemainingPaths": [
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Local\\Programs\\Blitz",
+      "Exists": true
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Roaming\\Blitz",
+      "Exists": false
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App",
+      "Exists": true
+    },
+    {
+      "Path": "C:\\Users\\seala\\AppData\\Local\\blitz-updater",
+      "Exists": false
+    }
+  ],
+  "BlitzFirewallRules": []
+}

@@ -1,0 +1,66 @@
+{
+  "MainExecutableExists": false,
+  "RemainingInstallFiles": [],
+  "RemainingOldOverlayFiles": [
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\.session",
+      "Length": 73
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\shared_preferences.json",
+      "Length": 1919
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\db\\b308bebaa91dc68be40ba89475fdb72ba26601f2\\data.db",
+      "Length": 110252032
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\version",
+      "Length": 6
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\app.so",
+      "Length": 19825584
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\core_native.dll",
+      "Length": 252376
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\farsight_native.dll",
+      "Length": 228312
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\objectbox_flutter_libs_plugin.dll",
+      "Length": 98776
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\objectbox.dll",
+      "Length": 1898456
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\resources.dat",
+      "Length": 10745344
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\sqlite3_flutter_libs_plugin.dll",
+      "Length": 19928
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\sqlite3.dll",
+      "Length": 1489368
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\assets\\AssetManifest.bin",
+      "Length": 2
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\assets\\AssetManifest.json",
+      "Length": 2
+    },
+    {
+      "FullName": "C:\\Users\\seala\\AppData\\Roaming\\Blitz App\\Overlays\\ota\\pending\\assets\\FontManifest.json",
+      "Length": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "UniqueRemoteIPs": 53,
+  "InitialEstablishedRemoteTCP": 82,
+  "InitialTCPListenRecords": 39,
+  "InitialDistinctListeningPorts": 27,
+  "InitialUDPEndpoints": 59,
+  "TCPRecordsAcrossSnapshots": 6705,
+  "ReputationMatches": [],
+  "GeneratedFiles": [
+    "report.md",
+    "ip-addresses.csv",
+    "tcp-all-samples.csv",
+    "tcp-listeners.csv",
+    "udp-local-endpoints.csv"
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "spamhaus-v4",
+    "Status": 200,
+    "LastModified": [
+      "Tue, 13 Oct 2026 21:02:52 GMT"
+    ],
+    "Bytes": 102792,
+    "Saved": "2026-10-15T09:24:28.7846901+03:00"
+  },
+  {
+    "Name": "spamhaus-v6",
+    "Status": 200,
+    "LastModified": [
+      "Sat, 03 Oct 2026 05:46:26 GMT"
+    ],
+    "Bytes": 5922,
+    "Saved": "2026-10-15T09:24:28.9857504+03:00"
+  },
+  {
+    "Name": "feodo",
+    "Status": 200,
+    "LastModified": [
+      "Tue, 30 Jun 2026 04:53:05 GMT"
+    ],
+    "Bytes": 1763,
+    "Saved": "2026-10-15T09:24:29.4278654+03:00"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\History",
+    "Copy": "C:\\Users\\seala\\Documents\\GitHub\\Python\\network-audit-2026-10-15\\investigation-34.95.69.49\\history-readonly-copies\\brave-default.sqlite",
+    "Status": "Copied",
+    "Length": 19595264
+  },
+  {
+    "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\History-journal",
+    "Copy": "C:\\Users\\seala\\Documents\\GitHub\\Python\\network-audit-2026-10-15\\investigation-34.95.69.49\\history-readonly-copies\\brave-default-journal.sqlite",
+    "Status": "Copied",
+    "Length": 0
+  },
+  {
+    "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\History",
+    "Copy": "C:\\Users\\seala\\Documents\\GitHub\\Python\\network-audit-2026-10-15\\investigation-34.95.69.49\\history-readonly-copies\\brave-profile1.sqlite",
+    "Status": "Copied",
+    "Length": 8568832
+  },
+  {
+    "Source": "C:\\Users\\seala\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\History-journal",
+    "Copy": "C:\\Users\\seala\\Documents\\GitHub\\Python\\network-audit-2026-10-15\\investigation-34.95.69.49\\history-readonly-copies\\brave-profile1-journal.sqlite",
+    "Status": "Copied",
+    "Length": 4856536
+  }
+]
