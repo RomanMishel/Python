@@ -1,0 +1,21 @@
+<div id="polygon-house-area">
+  <svg viewBox="0 0 260 235" role="img" aria-labelledby="house-title house-desc" style="display:block;width:100%;max-width:360px;margin:auto">
+    <title id="house-title">Домик на клетчатой бумаге</title>
+    <desc id="house-desc">Ширина домика 4 клетки. Стены высотой 2 клетки, вершина на высоте 4 клеток. Пунктир соединяет верхние концы стен.</desc>
+    <defs>
+      <pattern id="house-grid" width="40" height="40" x="50" y="40" patternUnits="userSpaceOnUse">
+        <path d="M 0 40 V 0 H 40" fill="none" stroke="currentColor" opacity=".28"/>
+      </pattern>
+    </defs>
+    <path d="M50 200 V120 L130 40 L210 120 V200 Z" fill="var(--red)" fill-opacity=".4" stroke="currentColor"/>
+    <rect x="50" y="40" width="160" height="160" fill="url(#house-grid)"/>
+    <path d="M50 120 H210" stroke="currentColor" stroke-width="2" stroke-dasharray="5 4"/>
+    <g fill="none" stroke="currentColor">
+      <path d="M42 120 h-5 v80 h5 M217 40 h5 v160 h-5 M50 206 v4 h160 v-4 M130 33 v-4 h80 v4"/>
+    </g>
+    <g fill="currentColor" text-anchor="middle">
+      <text x="19" y="165">A=2</text><text x="242" y="125">C=4</text>
+      <text x="130" y="230">B=4</text><text x="170" y="21">D=2</text>
+    </g>
+  </svg>
+</div>
